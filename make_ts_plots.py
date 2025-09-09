@@ -8,6 +8,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
+from utils import plot_one
 
 if __name__ == '__main__':
 
@@ -20,7 +21,7 @@ if __name__ == '__main__':
     # Use args to set up data and paths
     ml_data = pd.read_pickle(osp.join(sys.argv[1]))
     out_dir = osp.join(sys.argv[2])
-    os.makedirs(out_dir, exists_ok=True)
+    os.makedirs(out_dir, exist_ok=True)
 
     n_periods = 5 # number of periods per png plot file
     for st in ml_data:
@@ -35,7 +36,7 @@ if __name__ == '__main__':
             print(f"Running batch for station {st}")
             print(f"Start time: {t0}")
             print(f"End time: {t1}")
-            out_file = osp.join(outpath, f"{st}_{batch[0]}_{batch[-1]}.png")
+            out_file = osp.join(out_dir, f"{st}_{batch[0]}_{batch[-1]}.png")
             plot_one(ml_data, st, start_time = t0, end_time = t1, title2 = f"Periods {batch}", 
                              save_path = None, show=True)
             plot_periods = [(b, t) for b, t in zip(batch, ts) if not pd.isna(t)]
