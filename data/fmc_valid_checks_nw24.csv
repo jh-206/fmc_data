@@ -1,1 +1,21 @@
-﻿stid,periods,valid
+﻿stid,periods,valid,Notes
+AGFO3,0-36,0,"Lots of auto removed periods, remaining oddly wet and regular"
+AGFO3,37-93,1,Suspiciously wet these periods
+AGFO3,95-154,0,Oddly regular
+AGFO3,155-219,1,
+AGFO3,220-243,0,Oddly regular
+ALFO3,0-37,0,flat
+ALFO3,38-236,1,
+ALFO3,237-243,0,too flat
+ANDPN,,,
+,,,
+,,,
+,,,
+ATFO3,,,
+,,,
+,,,
+,,,
+BATPN,,,
+BBFO3,0-243,1,"lots of rain, stagnation of moist conditions make sense"
+BCFO3,0-243,1,
+BDRPN,,,
