@@ -7,15 +7,14 @@ AGFO3,220-243,0,Oddly regular
 ALFO3,0-37,0,flat
 ALFO3,38-236,1,
 ALFO3,237-243,0,too flat
-ANDPN,,,
-,,,
-,,,
-,,,
-ATFO3,,,
-,,,
-,,,
-,,,
-BATPN,,,
+ANDPN,0-150,1,"Very wet conditions, but consistent rain"
+ATFO3,0-2,1,
+ATFO3,5-37,0,too flat
+ATFO3,38-240,1,
+BATPN,0-39,0,"erradic, no rain"
+BATPN,40-189,1,"Very wet conditions, but consistent rain"
 BBFO3,0-243,1,"lots of rain, stagnation of moist conditions make sense"
 BCFO3,0-243,1,
-BDRPN,,,
+BDRPN,0-163,1,"Very wet conditions, but consistent rain"
+BGFO3,0-241,1,
+BHRO3,0-243,1,
