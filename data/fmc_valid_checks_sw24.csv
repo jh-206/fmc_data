@@ -86,3 +86,25 @@ QMOA3,32-243,1,
 QNOA3,2-243,1,
 QOCA3,2-243,1,
 QPAA3,1-243,1,
+QPEA3,0-77,1,"weird spikes, eg at 0"
+QPIA3,1.0-88,1,
+QPNA3,0-243,1,
+QPSA3,0-123,1,lots of filtered
+QPVA3,1-243,1,
+QRCA3,1.0-25,1,
+QRLA3,0-243,1,
+QSBA3,0-243,1,
+QSGA3,0-243,1,
+QSLA3,0-4,1,
+QSLA3,6.0-11,0,"flat, then sketchy at 11"
+QSLA3,12-243,1,
+QSRA3,2-243,1,
+QTUA3,1-1.0-5,1,
+QTUA3,6.0-17,0,flat then sketchy at 16-17
+QTUA3,18-234,1,
+QVDA3,0-243,1,
+RESN5,1-241,1,
+RGET2,0-190,1,blocky output looks weird
+SEVN5,0-243,1,
+SFWN5,0-243,1,
+SFXN5,,,
