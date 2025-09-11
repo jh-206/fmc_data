@@ -43,4 +43,46 @@ JESN5,139-243,1,
 JJYT2,0-243,1,
 KCPT2,0-243,1,
 LANL1,0-234,1,"Check periods 0, 5. Periods 30-33 look too dry"
-LUAN5,0-242,1,
+LUAN5,0-242,1,"huge rain period 85, no response in Ed or FMC"
+MATT2,0-239,1,
+MAYN5,0-242,1,
+MGFNM,0-181,0,"Removing all times, some stretches look ok but tons of spikes unrelated to weather and long flat stretches"
+MGLN5,2-243,1,"lots of missing stretches, but looks ok"
+MLCN5,0-243,1,
+MNDT2,0-243,1,
+MPAN5,0-237,1,
+MRRN5,0-242,1,
+MTNN5,0-243,1,
+PCKT2,0-243,1,
+PJNT2,0-239,1,
+PSGT2,0-242,1,
+PXWT2,0-243,1,
+QBAA3,0-174,0,oddly regular plus much wetter than weather
+QBAA3,175-217,1,
+QBAA3,224-229,0,erradic and wet
+QCAA3,0-243,1,
+QCGA3,0-122,1,
+QCGA3,123-158,0,"flat, then long missing stretch to sketchy period at 158"
+QCGA3,159-243,1,
+QCKA3,0-243,1,
+QCNA3,0-243,1,
+QDPA3,0-67,0,"lots of filtered, then too regular and wet"
+QDPA3,68-108,1,
+QDPA3,109-143,0,"flat, then long missing stretch to sketchy period at 142"
+QDPA3,144-228,1,
+QENN5,1-243,1,some filtered stretches
+QFLA3,1.0-4.0,1,
+QFLA3,5.0-29,0,"flat, then long missing stretch to sketchy periods 27-29"
+QFLA3,30-243,1,
+QHEA3,0-243,1,
+QHJA3,1.0-5.0,1,
+QHJA3,6.0-10,0,huge drop then weird low period
+QHJA3,11-243,1,
+QHPA3,0-243,1,some filtered stretches
+QISA3,0-243,1,
+QMOA3,1.0-4,1,
+QMOA3,6.0-31,0,"flat, then long missing stretch to sketchy periods 30-31"
+QMOA3,32-243,1,
+QNOA3,2-243,1,
+QOCA3,2-243,1,
+QPAA3,1-243,1,
