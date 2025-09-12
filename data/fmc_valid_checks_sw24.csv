@@ -1,110 +1,172 @@
 ﻿stid,periods,valid,Notes
-ALRA3,0-243,1,
-AZPA3,0-192,1,
-BATN5,0-242,1,
-BDAN5,0-235,1,
-BLGT2,0-243,1,
-BLWN5,0-14,1,
-BLWN5,15-21,0,
-BLWN5,22-243,1,
-BNHT2,0-82,1,
-BNHT2,86-87,0,
-BNHT2,88-242,1,
-BVRN5,0-243,1,
-CAPT2,0-238,1,
-CEDT2,0-243,1,
-CHEA3,0-243,1,
-CIMN5,0-243,1,
-COPN5,0-4,1,
-COPN5,5.0-6.0,0,
-COPN5,7-242,1,
-CSBT2,0-242,1,
-CSMN5,0-243,1,
-DGCT2,0-243,1,
-DTLN5,0-243,1,
-EDWT2,0-243,1,
-EMNT2,0-243,1,
-FDST2,0-242,1,
-FRKT2,0-243,1,
-GDBT2,0-59,0,
-GDBT2,60-243,1,
-GRSN5,0-122,1,
-GRSN5,123-141,0,
-GRSN5,142-243,1,
-GSCN5,0-242,1,Check period 225-227
-JARN5,0-29,0,
-JARN5,30-124,1,
-JARN5,125-143,0,
-JARN5,144-243,1,
-JESN5,0-30,0,
-JESN5,31-124,1,
-JESN5,125-138,0,
-JESN5,139-243,1,
-JJYT2,0-243,1,
-KCPT2,0-243,1,
-LANL1,0-234,1,"Check periods 0, 5. Periods 30-33 look too dry"
-LUAN5,0-242,1,"huge rain period 85, no response in Ed or FMC"
-MATT2,0-239,1,
-MAYN5,0-242,1,
-MGFNM,0-181,0,"Removing all times, some stretches look ok but tons of spikes unrelated to weather and long flat stretches"
-MGLN5,2-243,1,"lots of missing stretches, but looks ok"
-MLCN5,0-243,1,
-MNDT2,0-243,1,
-MPAN5,0-237,1,
-MRRN5,0-242,1,
-MTNN5,0-243,1,
-PCKT2,0-243,1,
-PJNT2,0-239,1,
-PSGT2,0-242,1,
-PXWT2,0-243,1,
-QBAA3,0-174,0,oddly regular plus much wetter than weather
-QBAA3,175-217,1,
-QBAA3,224-229,0,erradic and wet
-QCAA3,0-243,1,
-QCGA3,0-122,1,
-QCGA3,123-158,0,"flat, then long missing stretch to sketchy period at 158"
-QCGA3,159-243,1,
-QCKA3,0-243,1,
-QCNA3,0-243,1,
-QDPA3,0-67,0,"lots of filtered, then too regular and wet"
-QDPA3,68-108,1,
-QDPA3,109-143,0,"flat, then long missing stretch to sketchy period at 142"
-QDPA3,144-228,1,
-QENN5,1-243,1,some filtered stretches
-QFLA3,1.0-4.0,1,
-QFLA3,5.0-29,0,"flat, then long missing stretch to sketchy periods 27-29"
-QFLA3,30-243,1,
-QHEA3,0-243,1,
-QHJA3,1.0-5.0,1,
-QHJA3,6.0-10,0,huge drop then weird low period
-QHJA3,11-243,1,
-QHPA3,0-243,1,some filtered stretches
-QISA3,0-243,1,
-QMOA3,1.0-4,1,
-QMOA3,6.0-31,0,"flat, then long missing stretch to sketchy periods 30-31"
-QMOA3,32-243,1,
-QNOA3,2-243,1,
-QOCA3,2-243,1,
-QPAA3,1-243,1,
-QPEA3,0-77,1,"weird spikes, eg at 0"
-QPIA3,1.0-88,1,
-QPNA3,0-243,1,
-QPSA3,0-123,1,lots of filtered
-QPVA3,1-243,1,
-QRCA3,1.0-25,1,
-QRLA3,0-243,1,
-QSBA3,0-243,1,
-QSGA3,0-243,1,
-QSLA3,0-4,1,
-QSLA3,6.0-11,0,"flat, then sketchy at 11"
-QSLA3,12-243,1,
-QSRA3,2-243,1,
-QTUA3,1-1.0-5,1,
-QTUA3,6.0-17,0,flat then sketchy at 16-17
-QTUA3,18-234,1,
-QVDA3,0-243,1,
-RESN5,1-241,1,
-RGET2,0-190,1,blocky output looks weird
-SEVN5,0-243,1,
-SFWN5,0-243,1,
-SFXN5,,,
+ALRA3,"0, 243",1,
+AZPA3,"0, 192",1,
+BATN5,"0, 242",1,
+BDAN5,"0, 235",1,
+BLGT2,"0, 243",1,
+BLWN5,"0, 14",1,
+BLWN5,"15, 21",0,
+BLWN5,"22, 243",1,
+BNHT2,"0, 82",1,
+BNHT2,"86, 87",0,
+BNHT2,"88, 242",1,
+BVRN5,"0, 243",1,
+CAPT2,"0, 238",1,
+CEDT2,"0, 243",1,
+CHEA3,"0, 243",1,
+CIMN5,"0, 243",1,
+COPN5,"0, 4",1,
+COPN5,"5, 6",0,
+COPN5,"7, 242",1,
+CSBT2,"0, 242",1,
+CSMN5,"0, 243",1,
+DGCT2,"0, 243",1,
+DTLN5,"0, 243",1,
+EDWT2,"0, 243",1,
+EMNT2,"0, 243",1,
+FDST2,"0, 242",1,
+FRKT2,"0, 243",1,
+GDBT2,"0, 59",0,
+GDBT2,"60, 243",1,
+GRSN5,"0, 122",1,
+GRSN5,"123, 141",0,
+GRSN5,"142, 243",1,
+GSCN5,"0, 242",1,"Check period 225, 227"
+JARN5,"0, 29",0,
+JARN5,"30, 124",1,
+JARN5,"125, 143",0,
+JARN5,"144, 243",1,
+JESN5,"0, 30",0,
+JESN5,"31, 124",1,
+JESN5,"125, 138",0,
+JESN5,"139, 243",1,
+JJYT2,"0, 243",1,
+KCPT2,"0, 243",1,
+LANL1,"0, 234",1,"Check periods 0, 5. Periods 30, 33 look too dry"
+LUAN5,"0, 242",1,"huge rain period 85, no response in Ed or FMC"
+MATT2,"0, 239",1,
+MAYN5,"0, 242",1,
+MGFNM,"0, 181",0,"Removing all times, some stretches look ok but tons of spikes unrelated to weather and long flat stretches"
+MGLN5,"2, 243",1,"lots of missing stretches, but looks ok"
+MLCN5,"0, 243",1,
+MNDT2,"0, 243",1,
+MPAN5,"0, 237",1,
+MRRN5,"0, 242",1,
+MTNN5,"0, 243",1,
+PCKT2,"0, 243",1,
+PJNT2,"0, 239",1,
+PSGT2,"0, 242",1,
+PXWT2,"0, 243",1,
+QBAA3,"0, 174",0,oddly regular plus much wetter than weather
+QBAA3,"175, 217",1,
+QBAA3,"224, 229",0,erradic and wet
+QCAA3,"0, 243",1,
+QCGA3,"0, 122",1,
+QCGA3,"123, 158",0,"flat, then long missing stretch to sketchy period at 158"
+QCGA3,"159, 243",1,
+QCKA3,"0, 243",1,
+QCNA3,"0, 243",1,
+QDPA3,"0, 67",0,"lots of filtered, then too regular and wet"
+QDPA3,"68, 108",1,
+QDPA3,"109, 143",0,"flat, then long missing stretch to sketchy period at 142"
+QDPA3,"144, 228",1,
+QENN5,"1, 243",1,some filtered stretches
+QFLA3,"1, 4",1,
+QFLA3,"5, 29",0,"flat, then long missing stretch to sketchy periods 27, 29"
+QFLA3,"30, 243",1,
+QHEA3,"0, 243",1,
+QHJA3,"1, 5",1,
+QHJA3,"6, 10",0,huge drop then weird low period
+QHJA3,"11, 243",1,
+QHPA3,"0, 243",1,some filtered stretches
+QISA3,"0, 243",1,
+QMOA3,"1, 4",1,
+QMOA3,"6, 31",0,"flat, then long missing stretch to sketchy periods 30, 31"
+QMOA3,"32, 243",1,
+QNOA3,"2, 243",1,
+QOCA3,"2, 243",1,
+QPAA3,"1, 243",1,
+QPEA3,"0, 77",1,"weird spikes, eg at 0"
+QPIA3,"1, 88",1,
+QPNA3,"0, 243",1,
+QPSA3,"0, 123",1,lots of filtered
+QPVA3,"1, 243",1,
+QRCA3,"1, 25",1,
+QRLA3,"0, 243",1,
+QSBA3,"0, 243",1,
+QSGA3,"0, 243",1,
+QSLA3,"0, 4",1,
+QSLA3,"6, 11",0,"flat, then sketchy at 11"
+QSLA3,"12, 243",1,
+QSRA3,"2, 243",1,
+QTUA3,"1, 5",1,
+QTUA3,"6, 17",0,"flat then sketchy at 16, 17"
+QTUA3,"18, 234",1,
+QVDA3,"0, 243",1,
+RESN5,"1, 241",1,
+RGET2,"0, 190",1,blocky output looks weird
+SEVN5,"0, 243",1,
+SFWN5,"0, 243",1,
+SFXN5,"0, 190",0,"only a couple of periods didn't get filtered, most remaining look sketchy. Choosing to entirely filter this station for these time periods analyzed"
+SNDN5,"0, 242",1,some filtered stretches
+THHC1,"3, 39",1,"some suspiciously high periods 27, 28"
+TJRN5,"0, 243",1,
+TMPG8,"2, 52",1,
+TR073,"5, 93",1,some filtered stretches
+TR487,"0, 95",1,some filtered stretches
+TR489,"2, 3",1,only 2 periods total
+TR490,"1, 45",1,
+TR491,"3, 138",1,"some suspicious spikes, eg 18\"
+TR492,"1, 71",1,
+TR499,"0, 116",1,
+TR611,"0, 91",1,
+TR724,"0, 243",1,
+TR868,"3, 39",1,
+TR868,"40, 45",0,"odd oscillations periods 40, 42 followed by missing stretch"
+TR868,"46, 60",1,
+TR931,"1, 225",1,
+TRUN5,"0, 14",1,
+TRUN5,"15, 22",0,"too wet with oddly regular oscillations, filtered periods inside and at end"
+TRUN5,"23, 243",,sketchy around 126
+TS055,"1, 48",1,
+TS123,"1, 106",1,
+TS155,"1, 74",1,
+TS286,"1, 92",1,
+TS559,"1, 7",1,"huge rain period 2, no fm response"
+TS636,"2, 59",1,lots of filtered
+TS645,"1, 197",1,weird spikes at 25
+TS677,"0, 6",0,missing into suspiciously flat
+TS677,"7, 46",1,
+TS801,"0, 108",1,lots of filtered
+TS876,"0, 76",1,
+TS967,"1, 47",1,lots of filtered
+TT030,"1, 49",1,"huge increase 39, 42, no rain from HRRR"
+TT033,"0, 20",1,
+TT033,"25, 28",0,"very wet then huge drops, followed by missing periods"
+TT046,"3, 38",1,
+TT075,"2, 18",1,
+TT106,"0, 211",1,
+TT412,"0, 216",1,
+TT417,"1, 65",1,
+TT418,"0, 207",1,
+TT431,"0, 30",1,"weird spikes at 1, oddly wet 25, 29"
+TT482,"0, 243",1,
+TT500,"2, 13",1,
+TT501,"0, 64",1,
+TT702,"1, 56",1,lots of filtered
+TT712,"0, 243",1,
+TT762,"1, 235",,weird spike at 57
+TT766,"1, 47",1,lots of filtered
+TT790,"1, 19",1,
+TT819,"0, 64",1,
+TT823,"1, 106",1,
+TT824,"1, 106",1,lots of filtered
+TT825,"1, 107",1,
+TT826,"0, 107",1,
+TT827,"1, 107",1,
+TT857,"3, 13",1,
+TT858,"2, 16",1,
+TT862,"2, 7",1,
+TTBA3,"1, 243",1,
+WDPT2,"1, 243",1,
+WHRT2,"0, 243",1,

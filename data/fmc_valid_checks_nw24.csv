@@ -1,33 +1,33 @@
 ﻿stid,periods,valid,Notes
-AGFO3,0-36,0,"Lots of auto removed periods, remaining oddly wet and regular"
-AGFO3,37-93,1,Suspiciously wet these periods
-AGFO3,95-154,0,Oddly regular
-AGFO3,155-219,1,
-AGFO3,220-243,0,Oddly regular
-ALFO3,0-37,0,flat
-ALFO3,38-236,1,
-ALFO3,237-243,0,too flat
-ANDPN,0-150,1,"Very wet conditions, but consistent rain"
-ATFO3,0-2,1,
-ATFO3,May-37,0,too flat
-ATFO3,38-240,1,
-BATPN,0-39,0,"erradic, no rain"
-BATPN,40-189,1,"Very wet conditions, but consistent rain"
-BBFO3,0-243,1,"lots of rain, stagnation of moist conditions make sense"
-BCFO3,0-243,1,
-BDRPN,0-163,1,"Very wet conditions, but consistent rain"
-BGFO3,0-241,1,
-BHRO3,0-243,1,
-BKFO3,0-7,0,long missing stretch followed by sketchy periods 6-7
-BKFO3,8-233,1,"some filtered stretches, 115 looks sketchy"
-BKRW1,0-33,0,mostly filtered
-BKRW1,34-231,1,"some filtered, lots of rain"
-BLFPN,1-185,1,"dramatic responses to rain, lots of consistent rain and very wet conditions"
-BLKO3,0-5,1,
-BLKO3,7.0-15,0,flat
-BLKO3,40-242,1,
-BLUPN,0-209,1,"dramatic responses to rain, lots of consistent rain and very wet conditions"
-BMFW1,0-26,0,"mostly filtered, sketchy other stretches"
-BMFW1,27-243,1,
-BMPPN,0-17,0,mostly filtered
-BMPPN,18-199,1,"lots of rain, stagnation of moist conditions make sense"
+AGFO3,"0, 36",0,"Lots of auto removed periods, remaining oddly wet and regular"
+AGFO3,"37, 93",1,Suspiciously wet these periods
+AGFO3,"95, 154",0,Oddly regular
+AGFO3,"155, 219",1,
+AGFO3,"220, 243",0,Oddly regular
+ALFO3,"0, 37",0,flat
+ALFO3,"38, 236",1,
+ALFO3,"237, 243",0,too flat
+ANDPN,"0, 150",1,"Very wet conditions, but consistent rain"
+ATFO3,"0, 2",1,
+ATFO3,"5, 37",0,too flat
+ATFO3,"38, 240",1,
+BATPN,"0, 39",0,"erradic, no rain"
+BATPN,"40, 189",1,"Very wet conditions, but consistent rain"
+BBFO3,"0, 243",1,"lots of rain, stagnation of moist conditions make sense"
+BCFO3,"0, 243",1,
+BDRPN,"0, 163",1,"Very wet conditions, but consistent rain"
+BGFO3,"0, 241",1,
+BHRO3,"0, 243",1,
+BKFO3,"0, 7",0,long missing stretch followed by sketchy periods 6-7
+BKFO3,"8, 233",1,"some filtered stretches, 115 looks sketchy"
+BKRW1,"0, 33",0,mostly filtered
+BKRW1,"34, 231",1,"some filtered, lots of rain"
+BLFPN,"1, 185",1,"dramatic responses to rain, lots of consistent rain and very wet conditions"
+BLKO3,"0, 5",1,
+BLKO3,"7, 15",0,flat
+BLKO3,"40, 242",1,
+BLUPN,"0, 209",1,"dramatic responses to rain, lots of consistent rain and very wet conditions"
+BMFW1,"0, 26",0,"mostly filtered, sketchy other stretches"
+BMFW1,"27, 243",1,
+BMPPN,"0, 17",0,mostly filtered
+BMPPN,"18, 199",1,"lots of rain, stagnation of moist conditions make sense"
