@@ -21,8 +21,6 @@ if __name__ == '__main__':
     df = pd.read_csv(osp.join(sys.argv[2]))
     output_file = osp.join(sys.argv[3])
     
-    
-    
     # Set up restructured dataframe
     df_valid = pd.DataFrame(columns=['stid', 'start', 'end', 'valid']).astype({
         'stid': 'string',
@@ -32,13 +30,12 @@ if __name__ == '__main__':
     })
     
     pattern = r"^(\d+)(?:\s*,\s*(\d+))?$" # Use to extract period integers start_period, end_period e.g. (0, 243)
-    
     for i in range(0, df.shape[0]):
         st = df.stid[i]
         d = ml_data[st]["data"]
-        s = df[df.index == i].periods.values[0]
-        vi = df[df.index == i].valid.values[0]
-        pstart, pend = re.match(pattern, s).groups()
+        stringi = df[df.index == i].periods.values[0]
+        valid_i = df[df.index == i].valid.values[0]
+        pstart, pend = re.match(pattern, stringi).groups()
         # Handle whether single period or range
         if pend is None:
             periods = [int(pstart)]
@@ -52,7 +49,7 @@ if __name__ == '__main__':
             'stid': [st],
             'start': [t0.strftime("%Y-%m-%dT%H:%M:%SZ")],
             'end': [t1.strftime("%Y-%m-%dT%H:%M:%SZ")],
-            'valid': [vi]
+            'valid': [valid_i]
         })
         
         df_valid = pd.concat([df_valid, di], ignore_index = True)
