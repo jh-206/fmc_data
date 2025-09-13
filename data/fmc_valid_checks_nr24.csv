@@ -1,0 +1,11 @@
+﻿stid,periods,valid,Notes
+AWWN8,"0, 243",1,
+BDLM8,"1, 17",1,
+BEFM8,"0, 242",1,
+BFYI1,"0, 239",1,check 232
+BIFM8,"0, 27",0,"mostly filtered, weird drop at 15, too flat 25-27"
+BIFM8,"28, 232",1,check 230-232
+BLMM8,"0, 243",1,
+BRLW4,"0, 33",0,"mostly filtered, flat at 0 and into 33"
+BRLW4,"34, 242",1,
+BRRM8,,,
