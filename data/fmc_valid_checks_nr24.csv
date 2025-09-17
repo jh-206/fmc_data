@@ -64,3 +64,51 @@ OBRM8,"7, 86",1,
 OBRM8,"89, 91",0,"filtered before, then flat"
 PHGM8,"1, 227",1,
 PHYM8,"53, 128",1,"all filtered before, looks odd at 53 but theres rain"
+PLAM8,"0, 114 ",1,sketchy 3-4
+PLAM8,"115, 118",0,flat and wet with no rain and no relationship to equilibria
+PLAM8,"119, 242",1,
+PLFI1,"0, 38",1,
+PLFI1,"39, 60",0,"flat and wet, many filtered, dramatic increases and drops from the valid portions"
+PLFI1,"61, 243",1,
+PLKI1,"0, 239",1,lots of filtered at beginning
+PNTM8,"0, 43",0,"mostly filtered, flat at 10"
+PNTM8,"44, 128",1,
+PNTM8,"134, 196",0,"mostly filtered, flat stretches, then wild oscillations from 165-172, then suspicious jumps from extreme dry conditions 195-196"
+PNTM8,"197, 238",1,
+PRDM8,"0, 243",1,
+RHUS2,"0, 215",1,
+RRDM8,"0, 13",1,
+RRDM8,"16, 17",0,sharp decrease in moisture at 16
+RRDM8,"18, 243",1,jagged response 235-243
+SADI1,"24, 224",1,"lots of filtered, some flat stretches with rain,168-173 show a max moisture response to rain "
+SEEM8,"0, 240",1,
+SFFI1,"40, 127",1,
+SFFI1,"128, 152",0,"mostly filtered, then sharp drop at "
+SFFI1,"155, 231",1,
+SFJM8,"0, 22",1,"some rain with flat response, looks odd 10-13"
+SFJM8,25,0,"all filtered around it, too flat with no rain"
+SFJM8,"38, 241",1,
+SFRS2,"0, 241",1,
+SHDS2,"0, 243",1,
+SLCM8,"0, 9",1,
+SLCM8,"10, 35",0,"moisture increases detached from equilibria, some rain but oddly wet and flat"
+SLCM8,"36, 115",1,
+SLCM8,"116, 151",0,"jagged response that increases moisture detached from weather, then into flat stretches"
+SLCM8,"152, 242",1,
+SPBM8,"0, 43",1,
+SPKW4,"0, 243",1,
+SPOM8,"0, 33",0,"mostly filtered, flat at 9"
+SPOM8,"34, 237",1,check 115-121
+SRFI1,"0, 33",0,"mostly filtered, then flat and stretches opposite weather pattern"
+SRFI1,"34, 242",1,
+SRWW4,"1, 18",1,
+STGM8,"0, 9",0,"mostly filtered, and flat"
+STGM8,"10, 127",1,
+STGM8,"128, 133",0,"starts to depart from weather 128, nonphysical pattern 130-131"
+STGM8,"134, 243",1,lots of rain and flat stretches
+TCTM8,"0, 202",1,
+THAM8,"0, 241",1,lots of rain and flat stretches
+THMI1,"0, 40",1,"mostly filtered, flat at 13"
+THMI1,"41, 238",1,
+TR259,"1, 47",1,
+TR267,,,
