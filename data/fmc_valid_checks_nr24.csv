@@ -8,4 +8,59 @@ BIFM8,"28, 232",1,check 230-232
 BLMM8,"0, 243",1,
 BRLW4,"0, 33",0,"mostly filtered, flat at 0 and into 33"
 BRLW4,"34, 242",1,
-BRRM8,,,
+BRRM8,"0, 242",1,
+BTKM8,"0, 243",1,
+CLWM8,"0, 243",1,
+CONM8,"0, 30",0,"mostly filtered, then too flat"
+CONM8,"31, 243",1,
+CSBN8,"0, 243",1,
+CYFM8,"0, 243",1,"check 2-3, and 20-22"
+DBOM8,"0, 243",1,
+DNFI1,"0, 241",1,lots of filtered
+DVLW4,"0, 243",1,
+EKHM8,"0, 243",1,
+ENNM8,"0, 243",1,
+EURM8,"0, 242",1,
+FCRM8,"0, 242",1,
+FHFI1,"0, 39",0,all filtered then sketchy at 39
+FHFI1,"40, 233",1,"lots of filtered, sketchy at 232-233"
+FINM8,"0, 243",1,
+FIRM8,"0, 241",1,lots of flat stretches from rain
+GAAM8,"0, 243",1,
+GINM8,"0, 243",1,
+GPKM8,"1, 94",1,
+GSNM8,"0, 243",1,
+HBOM8,"0, 243",1,
+HMDN8,"0, 243",1,
+HNYM8,"0, 242",1,period 10 looks wrong
+HOOI1,"10, 233",1,lots of filtered
+HRKM8,"0, 243",1,
+HRWM8,"0, 243",1,
+HYGM8,"0, 4",1,
+HYGM8,"6, 35",0,"lots of filtered, flat stretches "
+HYGM8,"36, 243",1,
+IPFI1,"44, 114",1,sketchy at start of 44
+IPFI1,"115, 160",0,"flat, then filtered"
+IPFI1,"161, 236",1,
+JCSN8,"0, 243",1,"check 236, fm falling while eq increasing"
+LBBM8,"0, 6",0,"mostly filtered, flat at 1"
+LBBM8,"7, 238",1,sketchy flat stretches with rain
+LCKI1,"11, 162",1,"lots of rain, lots of filtered"
+LLKS2,"0, 243",1,
+LMRM8,"0, 243",1,
+LPFI1,"0, 243",1,
+LWDN8,"27, 182 ",1,jagged response 180-182
+MAEI1,"0, 239",1,"lots of filtered, sketchy 141, 228-229"
+MCLI1,"0, 243",1,
+MLKM8,"0, 3",1,
+MLKM8,"4, 13",0,"lots of filtered, flat 9, then erradic 10-13"
+MLKM8,"14, 243",1,
+MRLS2,"0, 236",1,
+MSLM8,"1, 142",1,
+NCRM8,"0, 243",1,
+NINM8,"0, 241",1,flat stretches w rain
+NUCI1,"1, 243",1,"some filtered, flat rain"
+OBRM8,"7, 86",1,
+OBRM8,"89, 91",0,"filtered before, then flat"
+PHGM8,"1, 227",1,
+PHYM8,"53, 128",1,"all filtered before, looks odd at 53 but theres rain"
