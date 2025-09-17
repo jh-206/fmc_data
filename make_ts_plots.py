@@ -8,7 +8,8 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
-from utils import plot_one
+from utils import plot_one, time_range
+
 
 if __name__ == '__main__':
 
@@ -24,12 +25,14 @@ if __name__ == '__main__':
     os.makedirs(out_dir, exist_ok=True)
 
     n_periods = 5 # number of periods per png plot file
+    n_hours = 72 # hours in a period
     for st in ml_data:
         d = ml_data[st]['data']
         max_period = d.st_period.max()
         for start in range(0, max_period + 1, n_periods):
             batch = list(range(start, min(start + n_periods, max_period + 1)))
             ts = [d[d['st_period'].isin([bi])].date_time.min() for bi in batch]
+            pi = [d[d['st_period'].isin([bi])].st_period.min() for bi in batch]
             t0 = d[d['st_period'].isin(batch)].date_time.min()
             t1 = d[d['st_period'].isin(batch)].date_time.max()
             print("~"*50)
@@ -39,10 +42,10 @@ if __name__ == '__main__':
             out_file = osp.join(out_dir, f"{st}_{batch[0]}_{batch[-1]}.png")
             plot_one(ml_data, st, start_time = t0, end_time = t1, title2 = f"Periods {batch}", 
                              save_path = None, show=True)
-            plot_periods = [(b, t) for b, t in zip(batch, ts) if not pd.isna(t)]
-            for b, t in plot_periods:
+            for p, t in zip(pi, ts):
+                if np.isnan(p): continue
                 plt.axvline(x=t, color='black', linestyle='dotted')
-                plt.text(t, plt.ylim()[1], str(b), verticalalignment='top', horizontalalignment="right", color='black')  # Annotate
+                plt.text(t, plt.ylim()[1], str(p), verticalalignment='top', horizontalalignment="right", color='black')  # Annotate
             
             plt.savefig(out_file)  
             plt.close()
