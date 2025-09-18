@@ -111,4 +111,26 @@ THAM8,"0, 241",1,lots of rain and flat stretches
 THMI1,"0, 40",1,"mostly filtered, flat at 13"
 THMI1,"41, 238",1,
 TR259,"1, 47",1,
-TR267,,,
+TR267,"0, 18",1,
+TR276,"0, 220",,"suspiciously dry response 0-10, odd jump period 18"
+TR279,"2, 10",1,
+TR285,"2, 44",,dramatic swings period 4
+TR286,"0, 89",1,
+TR286,90,0,"huge spike then drop in moisture, no corresponding weather response or rain"
+TR286,"91, 128",1,
+TT287,"1, 86",1,
+TT368,"2, 88",1,suspiciously dry 85-88
+TT369,"2, 90",1,
+TT463,"1, 45",1,check 7
+TT464,"1, 81",1,
+TT587,"1, 55",1,
+TT588,"1, 21",1,
+TT726,"1, 11",1,
+TRCM8,"0, 9",0,"mostly filtered, flat at 5"
+TRCM8,"10, 93",1,
+TRCM8,"94, 119",0,"lots of filtered, nonphysical pattern 97, 110-119"
+TRCM8,"129, 232",1,flat stretches w rain
+TROM8,"0, 239",1,check 119-120
+TS174,"1, 6",1,
+TS256,"1, 41",1,suspiciously dry 1-4
+TS395,"2, 22",1,
