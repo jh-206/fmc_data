@@ -20,7 +20,13 @@ if __name__ == '__main__':
     ml_data = pd.read_pickle(osp.join(sys.argv[1]))
     df = pd.read_csv(osp.join(sys.argv[2]))
     output_file = osp.join(sys.argv[3])
-    
+
+    # Check for station match, meant to identify typos or the wrong spreadsheet used
+    sts = [*ml_data.keys()]
+    assert set(df["stid"]).issubset(sts), f"Missing values: {set(df['stid']) - set(sts)}"
+    assert set(df["stid"]) == set(sts), f"Mismatch: in df not in sts {set(df['stid']) - set(sts)}, in sts not in df {set(sts) - set(df['stid'])}"
+
+ 
     # Set up restructured dataframe
     df_valid = pd.DataFrame(columns=['stid', 'start', 'end', 'valid']).astype({
         'stid': 'string',
@@ -33,10 +39,16 @@ if __name__ == '__main__':
     for i in range(0, df.shape[0]):
         st = df.stid[i]
         d = ml_data[st]["data"]
-        stringi = df[df.index == i].periods.values[0]
+        stringi = df[df.index == i].periods.values[0].strip()
         valid_i = df[df.index == i].valid.values[0]
-        pstart, pend = re.match(pattern, stringi).groups()
-        # Handle whether single period or range
+        # pstart, pend = re.match(pattern, stringi).groups()
+        try:
+    	    pstart, pend = re.match(pattern, stringi).groups()
+        except AttributeError:
+    	    print("String:", stringi)
+    	    raise  # re-raise the error 
+
+	# Handle whether single period or range
         if pend is None:
             periods = [int(pstart)]
         else:
