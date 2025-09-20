@@ -118,14 +118,14 @@ TR285,"2, 44",,dramatic swings period 4
 TR286,"0, 89",1,
 TR286,90,0,"huge spike then drop in moisture, no corresponding weather response or rain"
 TR286,"91, 128",1,
-TT287,"1, 86",1,
-TT368,"2, 88",1,suspiciously dry 85-88
-TT369,"2, 90",1,
-TT463,"1, 45",1,check 7
-TT464,"1, 81",1,
-TT587,"1, 55",1,
-TT588,"1, 21",1,
-TT726,"1, 11",1,
+TR287,"1, 86",1,
+TR368,"2, 88",1,suspiciously dry 85-88
+TR369,"2, 90",1,
+TR463,"1, 45",1,check 7
+TR464,"1, 81",1,
+TR587,"1, 55",1,
+TR588,"1, 21",1,
+TR726,"1, 11",1,
 TRCM8,"0, 9",0,"mostly filtered, flat at 5"
 TRCM8,"10, 93",1,
 TRCM8,"94, 119",0,"lots of filtered, nonphysical pattern 97, 110-119"
@@ -134,3 +134,94 @@ TROM8,"0, 239",1,check 119-120
 TS174,"1, 6",1,
 TS256,"1, 41",1,suspiciously dry 1-4
 TS395,"2, 22",1,
+TS428,"0, 106",1,
+TS428,"107, 114",0,"mostly filtered, flat and linear stretch. TODO: why didin't it get auto filtered?"
+TS428,"115, 188",1,
+TS495,"1, 74",1,
+TS588,"2, 52",1,
+TS633,"22, 224",1,
+TS680,"0, 243",1,
+TS684,"1, 57",1,
+TS696,"1, 114",1,
+TS705,"2, 26",1,
+TS815,"1, 39",1,
+TS815,"40, 91",0,"starts to depart from weather 40 to flat stretch at 50, then mostly filtered after"
+TS815,"92, 155",1,
+TS815,160,0,"filtered before, then flat"
+TS895,"1, 61",1,
+TS897,"1, 104",1,lots of filtered
+TS911,"0, 8",1,
+TS911,10,0,"filtered before, then nonphysical drop in moisture"
+TS911,"11, 129",1,check 92-94
+TS911,"130, 131",0,wet and flat to huge drop at 131
+TS911,"132, 232",1,
+TS949,"1, 74",1,
+TS949,"75, 100",0,"lots of filtered, flat stretches "
+TS949,"101, 191",1,
+TT032,"1, 49",1,
+TT064,"0, 35",0,mostly filtered 
+TT064,"36, 58",1,
+TT064,"59, 71",0,wet and too flat to huge drop at 71
+TT064,"72, 75",1,
+TT064,"76, 86",0,huge increase to wet flat stretch to huge drop at 86
+TT064,"87, 234",1,check 230-234
+TT078,"3, 53",1,suspiciously dry 3 and 6
+TT101,"1, 8",1,
+TT166,"1, 95",1,
+TT230,"4, 104",1,
+TT234,"4, 52",1,check 52
+TT236,"0, 223",1,
+TT339,"2, 118",1,
+TT346,"1, 59",1,check 57-59
+TT350,"1, 97",1,
+TT353,"2, 53",1,
+TT367,"2, 39",1,
+TT434,"1, 29",1,
+TT435,"1, 20",1,
+TT435,"21, 22",0,flat wet spike into a filtered period
+TT435,"23, 26",1,
+TT435,"27, 30",0,spike in 27 into filtered then erradic in 29
+TT435,31,1,
+TT435,"32, 33",0,erradic wet spikes
+TT435,"34, 36",1,
+TT436,"1, 28",1,
+TT437,"1, 27",1,
+TT438,"2, 14",1,
+TT439,"1, 31",1,
+TT481,"1, 64",1,
+TT514,"1, 26",1,
+TT541,"2, 99",1,
+TT584,"0, 240",1,
+TT610,"0, 243",1,
+TT635,"1, 26",1,
+TT710,"2, 111",1,
+TT726,"1, 153",1,check 150-153
+TT727,"1, 51",1,
+TT727,"52, 53",0,wet and too flat
+TT727,"54, 67",1,
+TT727,70,0,flat
+TT727,"102, 165",1,
+TT727,"166, 168",0,nonphysical wet and flat stretch
+TT727,"169, 175",1,
+TT745,"3, 73",1,
+TT746,"1, 39",1,
+TT756,"1, 64",1,
+TT758,"1, 19",1,
+TT772,"1, 92",1,
+TT785,"1, 62",1,
+TT786,"1, 7",1,
+TT803,"1, 183",1,
+TT804,"1, 18",1,
+TT838,"1, 48",1,
+TT839,"1, 41",1,
+TT851,"1, 16",1,
+TT852,"1, 35",1,check 5-9
+TT863,"1, 3",1,
+VLRW4,"1, 60",1,
+WEFI1,"0, 243",1,
+WHHM8,"0, 243",1,
+WRSM8,"1, 243",1,
+WSRM8,"2, 240",1,
+YKAM8,"1, 22",0,"mostly filtered, flat stretches"
+YKAM8,"29, 239",1,"sketchy stretches 108, 225"
+YNKM8,"0, 243",1,check 32
