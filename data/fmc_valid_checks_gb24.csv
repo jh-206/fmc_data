@@ -1,0 +1,30 @@
+﻿stid,periods,valid,Notes
+ALFO3,0,1,
+ALFO3,"1, 20",0,flat nonphysical
+ALFO3,"38, 243",1,
+ANBC1,"1, 15",1,"check spikes 10, 12"
+ATFO3,"0, 2",1,
+ATFO3,"5, 14",0,wet and flat
+ATFO3,"15, 18",1,
+ATFO3,"20, 35",0,"lots of filtered, flat between"
+ATFO3,"36, 136",1,
+ATFO3,"137, 147",0,filtered and flat bweteen
+ATFO3,"148, 240",1,
+AZPA3,"0, 192",1,
+BCFO3,"0, 243",1,
+BDLM8,"1, 17",1,
+BEUU1,"1, 33",0,flat nonphysical
+BEUU1,"34, 239",1,"check 45-49, 170-172, 231-233"
+BEUU1,241,0,flat nonphysical
+BGHC1,"2, 36",1,very wet spikes
+BKCU1,"0, 124",1,
+BKCU1,"125, 128",0,filtered then wet flat
+BKCU1,"129, 242",1,
+BKGC1,"0, 32",0,flat then filtered
+BKGC1,"33, 241",1,check 138
+BKRC1,"0, 31",0,flat to filtered
+BKRC1,"32, 125",1,
+BKRC1,"126, 137",0,"flat, filtered, "
+BKRC1,"138, 235",,check 138-139
+BLIC1,"1, 6",1,
+BLIC1,,,
