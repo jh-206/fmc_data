@@ -27,4 +27,50 @@ BKRC1,"32, 125",1,
 BKRC1,"126, 137",0,"flat, filtered, "
 BKRC1,"138, 235",,check 138-139
 BLIC1,"1, 6",1,
-BLIC1,,,
+BLIC1,"9, 15",0,"lots of filtered, wet and erradic"
+BLIC1,"16, 27",,check 16
+BLKO3,"0, 5",1,
+BLKO3,"6, 39",0,filtered and flat
+BLKO3,"40, 239",1,
+BLKO3,242,0,flat
+BOFC1,"1, 32",1,check 30-31
+BPOC1,0,1,
+BPOC1,36,0,"filtered before, very wet"
+BPOC1,"37, 243",1,
+BRRM8,"0, 242",1,
+BSNC1,"3, 218",1,
+BTFO3,"0, 114",1,
+BTFO3,"115, 144",0,"filtered, flat, erradic at beginning"
+BTFO3,"145, 243",1,
+BTKM8,"0, 243",1,
+CEFO3,"0, 243",1,
+CGVC1,"1, 243",1,
+CNFC1,"0, 242",1,check 146
+COXC1,"3, 17",1,all periods look too wet and erradic
+CPFO3,"0, 41",0,flat and filtered into 41
+CPFO3,"42, 124",1,
+CPFO3,"125, 150",0,filtered and flat into wet 150
+CPFO3,"151, 235",1,
+CPFO3,"236, 241",0,filtered and flat
+CRII1,"0, 163",,check 33
+CRVC1,"46, 58",0,unreasonable oscillations from less than 5 to over 25
+CRVC1,"59, 132",1,
+CRVC1,"133, 156",0,"filtered, then flat into high 156"
+CRVC1,"157, 231",1,
+CRVC1,"232, 241",0,"fitlered, then too wet and jagged "
+CRVC1,243,1,
+CWFO3,"0, 6",1,
+CWFO3,"7, 38",0,goes very wet at 7 into high and flat and finally wet stretch in 38 into nomral looking
+CWFO3,"39, 240",1,check 239
+CWSC1,"1, 21",1,"suspiciously drop 2-4. check 12, 21"
+DEMC1,"1, 243",1,check 242
+DEXC1,"41, 133",1,
+DEXC1,"136, 145",0,flat wet
+DEXC1,"146, 243",,check 147
+DKYC1,"0, 38",0,"mostly filtered, flat stretches into high 38"
+DKYC1,"39, 243",1,"check eg 95-96, moisture goes up when eq goes down"
+DMNI1,"45, 109",1,
+DMNI1,"116, 119",0,"flat, filtered aroudn those periods"
+DMNI1,"165, 228",1,
+DMNI1,"229, 233",0,wet periods 230-231 show characteristic signs of bad data seeen in other stations
+DWRN2,"1, 243",1,"check big spikes, eg 68"
