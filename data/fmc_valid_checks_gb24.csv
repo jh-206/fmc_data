@@ -74,3 +74,22 @@ DMNI1,"116, 119",0,"flat, filtered aroudn those periods"
 DMNI1,"165, 228",1,
 DMNI1,"229, 233",0,wet periods 230-231 show characteristic signs of bad data seeen in other stations
 DWRN2,"1, 243",1,"check big spikes, eg 68"
+ENFO3,"0, 2",0,flat into filtered stretch
+ENFO3,"5, 243",1,"check 8, lots of sketchy stretches, e.g. 126"
+ENNM8,"0, 243",1,
+EPWC1,"1, 243",1,lots of rain
+FCHC1,"1, 149",1,
+FCHC1,"153, 154",0,erradic and linear stretches
+FCHC1,"155, 243",1,jagged response
+FCRM8,"0, 9",1,
+FCRM8,"10, 12",0,moisture rises nonphysically to filtered period
+FCRM8,"13, 239",1,check 136-139
+FLEI1,"40, 224 ",1,"check 142, 220-224"
+FLFI1,"0, 33",0,filtered and flat
+FLFI1,"34, 243",1,"check 114-117, jagged and departs from eq"
+FMFO3,"0, 3",1,
+FMFO3,17,0,filtered and flat
+FMFO3,"40, 237",1,
+FMFO3,243,0,flat
+FNWC1,"6, 213",1,check 140
+FSBC1,,,
