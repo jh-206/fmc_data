@@ -92,4 +92,45 @@ FMFO3,17,0,filtered and flat
 FMFO3,"40, 237",1,
 FMFO3,243,0,flat
 FNWC1,"6, 213",1,check 140
-FSBC1,,,
+FSBC1,"1, 160",1,"check 24, 46 moving away from eq"
+FTNC1,"0, 243",1,"check 1, moving away from eq"
+GALN2,"0, 2",1,
+GALN2,"8, 30",0,filtered and flat into 30
+GALN2,"31, 241",1,
+HFLC1,"0, 121",1,check 53
+HFNC1,"3, 30",1,looks too wet 3-4
+HPFI1,"0, 129",1,
+HPFI1,"136, 153",0,"wet and flat, lots of filtered between"
+HPFI1,"154, 241",1,
+HRKM8,"0, 243",1,
+HSQC1,"41, 229",1,
+HSQC1,"231, 237",0,wet and flat
+HTRC1,"1, 128",1,
+IPFI1,"44, 111",1,
+IPFI1,"115, 120",0,wet and flat
+IPFI1,"161, 236",1,
+IRFO3,"3, 5",1,
+IRFO3,"6, 39",0,"wet and flat into sketchy 39, lots of filtered between"
+IRFO3,"40, 238",1,
+JSDC1,"1, 243",1,
+JSNC1,"3, 243",1,
+JVAU1,"0, 243 ",1,check 25
+KEEO3,"0, 8",1,
+KEEO3,"13, 20",0,filtered flat and wet
+KEEO3,"27, 228",1,
+KNXN2,"48, 232",1,
+KNXN2,234,0,"filtered before, flat and wet"
+KRNC1,"0, 10",1,
+KRNC1,"12, 17",0,"wet and flat, lots of filtered between"
+KRNC1,"18, 33",1,"check spikes at 20, suspiciously dry 26 and 33"
+KRNC1,"36, 43",0,"erradic, then very flat and dry"
+KRNC1,"50, 206",1,
+KRTC1,"0, 144",1,
+KRTC1,"147, 149",0,suspiciously dry 147-148 into sketchy 149
+KRTC1,"150, 155",1,
+KYCN2,"0, 243",1,
+LCRI1,0,0,wet and flat into filtered
+LCRI1,"6, 171",1,"suspicious spike at 7, check for rain"
+LIB03,"0, 177",0,"Erradic and extremely wet, and also some extremely flat and dry. The well-behaved sections look too regular. Dramatic responses to rain that are nonphysical. NOTE: filtering all data"
+LIB05,"1, 198",0,"Erradic and extremely wet, and also some extremely flat and dry. "
+LIB05,"202, 236",1,"Sensor looks like it was fixed after 198, but still a bit erradic"
