@@ -134,3 +134,4 @@ LCRI1,"6, 171",1,"suspicious spike at 7, check for rain"
 LIB03,"0, 177",0,"Erradic and extremely wet, and also some extremely flat and dry. The well-behaved sections look too regular. Dramatic responses to rain that are nonphysical. NOTE: filtering all data"
 LIB05,"1, 198",0,"Erradic and extremely wet, and also some extremely flat and dry. "
 LIB05,"202, 236",1,"Sensor looks like it was fixed after 198, but still a bit erradic"
+LIB06,,,
