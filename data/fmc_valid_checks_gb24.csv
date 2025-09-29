@@ -134,4 +134,96 @@ LCRI1,"6, 171",1,"suspicious spike at 7, check for rain"
 LIB03,"0, 177",0,"Erradic and extremely wet, and also some extremely flat and dry. The well-behaved sections look too regular. Dramatic responses to rain that are nonphysical. NOTE: filtering all data"
 LIB05,"1, 198",0,"Erradic and extremely wet, and also some extremely flat and dry. "
 LIB05,"202, 236",1,"Sensor looks like it was fixed after 198, but still a bit erradic"
-LIB06,,,
+LIB06,"0, 53",0,"Same issues with other LIB stations, searching for a common cause"
+LIB06,"55, 73",1,
+LIB06,"75, 77",0,"Same issues with other LIB stations, searching for a common cause"
+LIB06,"78, 90",1,
+LIB06,91,0,
+LIB06,"92, 105",1,check 103
+LIB06,"106, 107",0,"Same issues with other LIB stations, searching for a common cause"
+LIB06,"108, 124",1,check 117
+LIB06,"125, 139",0,"Same issues with other LIB stations, searching for a common cause"
+LIB06,"141, 147",1,check 147
+LIB06,148,0,"Same issues with other LIB stations, searching for a common cause"
+LIB06,"149, 183",1,"still looks odd, consider filtering entire station"
+LIB06,"184, 194",0,See other LIB station issues
+LIB06,"195, 234",1,check 204
+LIB08,"1, 39",1,check 3
+LIB08,"40, 50",0,See other LIB station issues
+LIB19,"0, 167",0,"Filtering entire station, erradic wet stretches and nonphysical patterns"
+LIB25,"0, 53",1,"odd regularity 10-14, dramatic spikes in response to rain. But overall looks reasonable and not obviously erroneous"
+LIB26,"0, 144",0,"Filtering entire station, see other LIB station issues. There are some reasonable stretches, b ut can't trust station "
+LIB31,"0, 221",0,"Filtering entire station, see other LIB station issues. This one has some extreme dry stretches that also look bad. There are some reasonable stretches, b ut can't trust station "
+LLEI1,"1, 4",1,check 4 
+LLEI1,10,0,"flat, filtered around"
+LLEI1,"18, 45",1,"check spikes at 19, 23"
+LLEI1,"46, 52 ",0,"extreme spikes at 46-50, into filtered periods"
+LLEI1,"53, 116",1,"check 107-109, regular pattern looks bad"
+LLEI1,"117, 119",0,"wet pattern departs from weather, filtered in between"
+LLEI1,"121, 189",1,check spikes at 165-175
+LLGI1,"3, 30",0,"wet, flat into filtered"
+LLGI1,"31, 96",1,"jagged response to rain, 41-43. Suspiciously wet periods, e.g. 78-84"
+LMRM8,"0, 243",1,
+LPFI1,"0, 243",1,
+LPRU1,"41, 127",1,
+LPRU1,156,0,"filtered before, then very wet"
+LPRU1,"157, 243",1,check wet spikes e.g. 158
+LRVC1,"1, 20",1,
+LRVC1,24,0,"filtered before, very wet"
+LRVC1,"25, 97",1,check regular wet patterns e.g. 26
+LYQC1,"0, 91",1,
+MCFC1,"0, 209",1,
+MCLI1,"0, 243",1,
+MIAC1,"0, 243",1,
+MKEC1,"10, 16",0,"filtered around periods, wet and flat"
+MKEC1,"31, 243",1,
+MMTC1,"8, 60",1,
+MMTC1,65,0,"filtered around, wet and flat"
+MMTC1,"80, 153",1,check 80
+MMTC1,"154, 156",0,wet and regular
+MMTC1,"157, 158",1,
+MNMC1,"0, 243",1,
+MOFI1,"0, 243",1,
+MOLC1,"1, 242",1,
+MPOC1,"0, 243",1,"check 207-209, very dry and flat"
+MPVN2,"0, 208",1,
+MTQC1,"0, 243",1,
+MTSN2,"0, 25",1,
+MTSN2,"27, 76",0,"dramatic decreases in moisture nonphysically reasonable eg 27, also erradic oscillations at 52"
+MTSN2,"78, 243",1,
+MTTC1,"10, 12",0,"filtered around, very wet"
+MTTC1,"13, 17",1,
+MTTC1,28,0,"filtered around, flat"
+MTTC1,"31, 76",1,
+MTTC1,77,0,erradic at 77 with extreme dry drops nonphysical
+MTTC1,"83, 128",0,"oddly jagged eg 83-84 into filtered, then extremely dry and flat stretch 89-101"
+MTTC1,"139, 179",1,
+MTTC1,180,0,boxy irregular patterns
+MYFI1,"43, 111",1,check 43
+MYFI1,"114, 122",0,wet and flat
+MYFI1,"160, 230",1,
+MYFI1,"231, 238",0,flat or regular and wet
+NFFI1,"42, 111",1,
+NFFI1,"112, 123",0,departs from weather into wet and oddly regular pattern
+NFFI1,"157, 231",1,
+NFFI1,"232, 243",0,
+NFRC1,"6, 243",1,
+NV001,"1, 7",0,wet and oddly regular
+NV001,"8, 15",1,
+NV001,"16, 26",0,wet and oddly regular
+NV001,"27, 59",1,
+NV001,"60, 143",0,"suspiciously dry stretches 72-74, then jagged regular spikes at end"
+NV001,"144, 169",1,
+NV002,"1, 56",1,"check spikes 13, 21"
+NV003,"1, 114",1,"suspicious spikes, eg 80"
+NV004,"0, 82",1,
+NV004,"83, 84",0,
+NV004,"85, 176",1,suspiciously dry eg 169
+NV005,"1, 185",1,check spikes 19
+NV006,"1, 15",1,
+NV006,"17, 19",0,
+NV006,"20, 22",1,
+NV006,"23, 24",0,
+NV006,"25, 185",1,check 180-184
+NV007,"6, 61",1,check dry stretches eg 33
+NV008,,,
