@@ -234,4 +234,80 @@ NV019,"1, 174",1,"dramatic responses to rain, eg 173"
 NV020,"1, 187",1,
 NV021,"1, 179",1,"check 40-41, incredibly dry"
 NV022,"1, 186",1,dramatic responses to rain 
-NV023,,,
+NV023,"1, 44",1,
+NV023,"46, 47",0,nonphysical and oddly regular oscillations
+NV023,"48, 60",1,"check 49, dramatic increase in response to rain"
+NV023,"62, 84",0,"nonphysical drops into dry regions, eg 75"
+NV023,"86, 91",1,
+NV023,"96, 98",0,nonphysical drops into dry region in 98
+NV023,"101, 104",1,
+NV024,"1, 73",1,
+NV024,"75, 76",0,nonphysical and oddly regular oscillations
+NV024,"77, 175",1,
+NV026,"1, 171",1,TODO: check all NV stations
+NV027,"1, 75",1,"oddly jagged and regular oscillations, eg 1-4"
+NV027,"76, 77",0,"same issues with other NV stations, check this period"
+NV027,"78, 184",1,
+NV029,"1, 44 ",1,"input Eq incredibly dry, check e.g 1-4. Are sensors not calibrated properly in such conditions?"
+NV031,"0, 241",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV032,"0, 178",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV033,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV034,"0, 233",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV035,"0, 240",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV038,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV039,"0, 44",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV040,"0, 137",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV041,"0, 231",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV042,"0, 240",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV043,"0, 230",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV044,"0, 58",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV045,"0, 27",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV046,"0, 238",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV047,"0, 238",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV048,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV049,"0, 64",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV050,"0, 239",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV051,"0, 217",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV052,"0, 186",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV053,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV054,"0, 229",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV055,"0, 242",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV058,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV059,"0, 226",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV060,"0, 240",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV061,"0, 238",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV062,"0, 240",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV063,"0, 237",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV064,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV065,"0, 186",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV066,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NV067,"0, 243",0,NOTE: Temporarily removing all remaining NV station periods. Will do more research but need to proceed with this GACC with trusted data
+NWRU1,7,0,"filtered around, flat"
+NWRU1,"45, 113",1,
+NWRU1,"115, 121",0,"wet and too regular, then into long filtered stretch"
+NWRU1,"161, 241",1,
+OSLI1,"1, 127",1,
+OSLI1,"143, 152",0,"starts with flat and extremely dry stretch, then into erradic stretches"
+OORC1,"1, 243",1,
+OTECS,"0, 52",1,"check 52, too linear"
+OVDC1,"1, 33",1,
+OVRC1,"0, 243",1,
+PEPC1,"40, 243",1,check 146
+PHRC1,"1, 8",1,
+PHRC1,"11, 12",0,"nonphysical oscillations, collapses to very dry level"
+PHRC1,"39, 233",1,
+PIVC1,"0, 236",1,check spikes 78-19
+PLFI1,"0, 38",1,
+PLFI1,"39, 60",0,"spikes into wet, flat/regular stretch"
+PLFI1,"61, 243",1,check 116
+POCN2,"0, 7",1,
+POCN2,"13, 40",0,"flat, then filtered into sketchy period 40"
+POCN2,"41, 125",1,
+POCN2,"126, 133",0,
+POCN2,"157, 243",1,
+POJC1,"1, 35",1,
+POUC1,"1, 5",1,
+PRGC1,"18, 171",1,
+PRHC1,"1, 242",1,
+QBAA3,"2, 229",0,"filtering all periods, erradic oscillations in some stretches, suspiciously regular others, and some flat"
+QDPA3,,,
