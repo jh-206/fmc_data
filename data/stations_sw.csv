@@ -1,0 +1,134 @@
+,stid,lat,lon,elev,NAME,STATE,id,DCP Info,Field Maint,Maint Cont
+0,QBAA3,36.20472,-112.06222,2479.2432000000003,BRIGHT ANGEL,AZ,1658,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+1,CHEA3,34.59661,-112.04761,1568.8056000000001,CHERRY,AZ,1660,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+2,QCGA3,32.70389,-109.91389,2902.0008000000003,COLUMBINE,AZ,1661,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+3,QCKA3,34.20336,-112.34561,1881.5304,CROWN KING,AZ,1662,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+4,QDPA3,36.45308,-112.23819,2651.76,DRY PARK,AZ,1664,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+5,QOCA3,34.94686,-111.75444,1464.2592,OAK CREEK,AZ,1688,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+6,QPAA3,34.24614,-111.2935,1543.5072,PAYSON,AZ,1691,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+7,QPVA3,34.08858,-110.94225,1594.7136,PLEASANT VALLEY,AZ,1692,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+8,TTBA3,33.86861,-111.31333,735.7872,TONTO BASIN,AZ,1698,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+9,QSBA3,31.69169,-111.44811,1066.8,SASABE,AZ,1699,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+10,QVDA3,34.54917,-111.84417,945.1848,VERDE,AZ,1709,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+11,BATN5,32.17861,-104.44056,1348.74,BATDRAW,NM,2138,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+12,MPAN5,32.17983,-103.722,1077.1632,PADUCA,NM,2155,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Full BLM
+13,SNDN5,32.58008,-106.52719,1870.5576,SAN ANDRES,NM,2158,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+14,COPN5,33.35017,-105.68606,2161.032,SMOKEY BEAR,NM,2162,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+15,ALRA3,33.84272,-109.11161,2501.4936000000002,ALPINE,AZ,2802,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+16,QNOA3,32.66778,-109.78806,1501.14,NOON CREEK,AZ,2803,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+17,QHEA3,34.39778,-110.56444,2022.3480000000002,HEBER,AZ,2805,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+18,QSLA3,32.39806,-110.725,2302.4592000000002,SCOUT CAMP,AZ,2807,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+19,TJRN5,35.00614,-106.31583,2331.7200000000003,OAK FLATS,NM,2874,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+20,QHJA3,34.61806,-111.34222,2070.5064,HAPPY JACK,AZ,3192,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+21,QMOA3,34.90972,-111.43842,2162.2512,MORMON LAKE,AZ,3194,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+22,QCAA3,31.44111,-110.28611,1645.92,CARR,AZ,3195,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+23,SFWN5,35.68686,-105.86031,2361.8952,SANTA FE WATERSHED,NM,3320,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+24,BVRN5,33.42361,-108.11,2029.6632000000002,BEAVERHEAD,NM,3428,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+25,CSMN5,32.77917,-105.82,2768.1936,COSMIC,NM,3429,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+26,MGLN5,33.85111,-107.53917,2590.8,MAGDALENA,NM,3433,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+27,QSGA3,32.31111,-110.81861,840.6384,SAGUARO,AZ,3564,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+28,QFLA3,35.14111,-111.6725,2104.0344,FLAGSTAFF,AZ,3626,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+29,QHPA3,31.67528,-110.88,2170.176,HOPKINS,AZ,3628,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+30,QISA3,34.59361,-112.51139,1641.3480000000002,IRON SPRINGS,AZ,3629,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+31,GRSN5,35.24278,-107.66528,2627.376,GRANTS,NM,3633,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+32,JESN5,35.84114,-106.61969,2513.9904,JEMEZ,NM,3634,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+33,MAYN5,32.90947,-105.46981,2011.3752000000002,MAYHILL,NM,3635,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+34,MTNN5,34.52056,-106.26167,1977.5424,MOUNTAINAIR,NM,3636,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+35,TRUN5,36.059,-105.7695,2545.9944,TRUCHAS,NM,3637,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+36,QTUA3,35.98833,-112.12056,2002.536,TUSAYAN,AZ,3740,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+37,LANL1,35.86142,-106.319,2262.8352,LANLTA6,NM,3755,,,
+38,CEDT2,35.69028,-101.56833,930.2496000000001,CEDAR,TX,3835,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+39,CSBT2,29.27083,-103.30139,1645.92,CHISOS BASIN,TX,3836,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+40,PSGT2,31.89444,-104.79778,1640.1288000000002,PINERY,TX,3841,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+41,GDBT2,31.925,-104.82528,2363.724,THE BOWL,TX,3844,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+42,JARN5,36.55597,-106.10306,2701.7472000000002,JARITA MESA,NM,3996,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+43,TR499,31.35925,-110.30388,1700.4792,CORONADO PORTABLE #2,AZ,3997,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+44,TR611,34.016,-108.4535,2481.3768,LINCOLN PORTABLE,NM,5605,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+45,PJNT2,29.3275,-103.2075,1143.0,PANTHER JUNCTION,TX,5996,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+46,TR724,33.49969,-103.91819,1240.8408000000002,ROSWELL #1 PORTABLE,NM,6000,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Depot BLM
+47,BNHT2,30.98556,-101.15778,780.8976,BARNHART,TX,6473,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+48,BLWN5,35.19417,-108.16306,2526.4872,BLUEWATER RIDGE,NM,6510,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+49,CIMN5,36.60611,-105.12028,2684.0688,CIMARRON,NM,6511,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+50,DTLN5,34.2925,-107.76806,2570.9880000000003,DATIL,NM,6874,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+51,CAPT2,34.41056,-101.04917,780.5928,CAPROCK,TX,9037,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+52,TS155,33.69031,-110.4865,1753.8192000000001,AZSCA_PORT2,AZ,9038,Forest Technology System - F6 (F6),Bureau of Indian Affairs,Portable Return BLM
+53,MNDT2,31.94306,-102.18972,854.0496,MIDLAND,TX,9090,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+54,FDST2,30.60056,-103.88667,1452.0672000000002,FORT DAVIS,TX,9152,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+55,BLGT2,34.82861,-102.80944,1236.8784,BOOTLEG,TX,9255,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+56,GSCN5,35.90875,-105.38769,2801.7216000000003,BARTLEY,NM,10354,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+57,MATT2,34.11754,-100.34458,558.6984,MATADOR,TX,10892,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+58,QRLA3,34.18133,-110.78919,1988.5152,RED LAKE,AZ,11255,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+59,QENN5,32.20361,-104.69031,1719.6816000000001,QUEEN,NM,12778,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+60,AZPA3,35.62667,-113.25361,1673.352,AZTCA_PORT1,AZ,13134,Forest Technology System - F6 (F6),Bureau of Indian Affairs,Portable Return BLM
+61,MLCN5,36.05453,-104.32511,1792.5288,MILLS CANYON,NM,13772,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+62,SEVN5,34.35844,-106.68946,1598.9808,SEVILLETA,NM,15452,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+63,MRRN5,34.28422,-103.71497,1299.3624,MELROSE RANGE,NM,15457,Forest Technology System - FWS12S (F12S),"Cooperator, Contractor, etc.",FTS AOM
+64,PCKT2,31.90611,-100.58167,565.0992,PAINT CREEK,TX,17910,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+65,KCPT2,29.60917,-100.47306,485.2416,KICKAPOO CAVERNS SP,TX,18541,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+66,QSRA3,34.40556,-111.28306,1689.5064,SHADOW RIM,AZ,25184,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+67,TS876,34.92189,-112.84531,1567.8912,PRESCOTT PORTABLE #1,AZ,26455,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+68,PXWT2,31.97236,-104.94791,1180.4904000000001,PX WELL,TX,26834,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+69,DGCT2,31.9961,-104.83375,1908.6576,DOG CANYON,TX,26835,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+70,LUAN5,33.82289,-108.94311,2160.4224,LUNA,NM,28304,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+71,QCNA3,31.54972,-110.51917,1410.9192,CANELO,AZ,28495,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+72,QPSA3,32.06911,-109.876,1264.0056,NRAWS 7 (APACHE STATION),AZ,30311,Vaisala - 555 (H555),National Weather Service,Other
+73,QPEA3,31.45833,-109.60675,1228.9536,NRAWS 8 DOUGLAS AIRPORT,AZ,30315,Vaisala - 555 (H555),National Weather Service,Other
+74,JJYT2,33.2325,-100.56778,580.644,JAYTON,TX,30481,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+75,EDWT2,30.28,-100.56083,669.0360000000001,MERRILL,TX,30482,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+76,QPNA3,34.37172,-111.45569,1641.9576000000002,PINE,AZ,34391,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+77,WHRT2,35.44647,-100.19831,723.9000000000001,WHEELER RAWS,TX,40792,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+78,FRKT2,32.769,-101.43439,746.4552,GAIL RAWS,TX,40794,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+79,EMNT2,30.0305,-103.47319,1364.2848000000001,ELEPHANT MTN WMA RAWS,TX,40795,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+80,TT412,31.42325,-110.4195,1777.8984,CORONADO-SV PORTABLE #1,AZ,60097,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+81,TT418,33.66003,-110.5613,2014.4232000000002,TONTO PORTABLE #2,AZ,60806,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+82,TT482,33.55531,-111.6145,416.6616,GOLDFIELD,AZ,63264,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+83,WDPT2,30.64608,-104.13661,2153.1072,WOLF DEN DMP,TX,71532,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+84,SFXN5,35.00406,-106.41148,1926.6408000000001,SANDIA LAB,NM,71721,Campbell Scientific - CR1000 (CR1K),Department of Energy,Other
+85,MGFNM,35.359,-108.505,2479.8528,McGaffey,NM,113070,,,
+86,TT712,36.41461,-105.55689,2174.748,TAOS PUEBLO RAWS,NM,171615,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+87,RGET2,29.18583,-102.96308,566.928,BIBE RGV,TX,217399,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+88,TR931,34.14944,-105.00597,1569.72,ROSWELL #2 PORTABLE,NM,6457,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Depot BLM
+89,RESN5,33.71489,-108.777,1781.8608000000002,RESERVE,NM,28329,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+90,TR489,34.68847,-111.34278,2055.2664,COCONINO MICRO #4,AZ,3987,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+91,TS967,32.50661,-110.20631,1466.088,CORONADO PORTABLE #3,AZ,29962,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+92,TT106,32.94858,-108.10174,2261.616,GILA QD2,NM,32018,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+93,BDAN5,33.821,-106.88189,1357.884,BOSQUE,NM,2140,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+94,TT762,34.0899,-111.8465,1059.7896,CAVE CREEK,AZ,180637,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+95,TR073,33.37262,-110.45731,868.9848000000001,AZSCA_PORT1,AZ,3203,Forest Technology System - F6 (F6),Bureau of Indian Affairs,Portable Return BLM
+96,TS677,36.34299,-106.66324,1975.104,SANTA FE PORTABLE,NM,21328,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+97,TS123,32.58083,-104.69083,1292.352,CARLSBAD PORTABLE,NM,8912,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+98,TS636,34.94145,-113.83663,1536.192,YUMA QD,AZ,16990,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+99,TT030,36.25791,-112.0032,2514.2952,IRAWS 27 (POINT IMPERIAL),AZ,30930,,,
+100,TS055,33.78725,-107.47213,2950.1592,SOCORRO PORTABLE #1,NM,8298,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+101,THHC1,36.33472,-112.2607,2482.9008000000003,IRAWS 39 (SWAMP RIDGE),AZ,30946,,,
+102,TT046,36.59095,-111.9907,1658.112,IRAWS 40 (HOUSE ROCK),AZ,30947,,,
+103,TT417,33.81232,-110.90799,2361.8952,TONTO PORTABLE #1,AZ,60805,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+104,TR487,34.19145,-105.72613,2218.944,CIBOLA PORTABLE #1,NM,3985,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+105,TS286,32.96472,-105.47778,2243.328,LINCOLN PORTABLE #2,NM,10979,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+106,TS645,29.59328,-103.26248,865.3272000000001,BIG BEND QD #1,TX,17638,Forest Technology System - FWS12S (F12S),National Park Service,Depot BLM
+107,QPIA3,35.42578,-111.73789,2431.3896,COCONINO MICRO #5,AZ,8819,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+108,TR491,35.91457,-111.90671,2229.3072,KAIBAB-TUS MICRO #2,AZ,3989,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+109,TMPG8,29.3275,-103.2075,1143.0,PANTHER JUNCTION,TX,25183,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+110,TR490,36.1925,-111.9455,2545.08,KAIBAB-NK MICRO #1,AZ,3988,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+111,TT766,34.39383,-111.98769,1237.488,JACKALOPE PORTABLE,AZ,196343,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+112,TS801,35.52556,-106.59361,1959.864,NMSPA_PORT1,NM,24930,Forest Technology System - F6 (F6),Bureau of Indian Affairs,Portable Return BLM
+113,TR868,32.91935,-108.1507,2658.4656,GILA QD1,NM,6279,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+114,TT500,33.86422,-111.46814,1042.416,AZ01 QD,AZ,64466,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+115,TT702,32.4264,-104.89363,1621.536,CARLSBAD PORTABLE #2,NM,170682,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+116,TT033,36.95103,-107.2309,2209.8,IRAWS 4,NM,30933,,,
+117,TT075,36.98972,-107.23083,1894.6368,IRAWS 3,NM,31302,,,
+118,TT826,32.4235,-114.16211,317.6016,CIPRIANO,AZ,221864,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Full BLM
+119,TT823,32.68878,-113.74889,159.7152,MOHAWK DUNES,AZ,221861,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Full BLM
+120,TT824,32.42483,-113.79011,254.8128,DEVILS HILLS,AZ,221862,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Full BLM
+121,TT825,32.61528,-114.00836,174.65040000000002,BAKERS TANK,AZ,221863,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Full BLM
+122,TT827,32.48658,-114.4635,100.8888,FTHL YDMA,AZ,221865,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Full BLM
+123,TT790,36.832,-105.24761,3367.4304,CARSON PORTABLE #1,NM,216566,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+124,TR492,35.23862,-112.21681,2097.6336,KAIBAB-SK MICRO #3,AZ,3990,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+125,TT501,33.39606,-112.25529,297.7896,AZ02 QD,AZ,64467,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+126,TT819,32.66314,-111.42154,533.4,PICACHO PEAK,AZ,221224,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+127,TS559,36.56988,-104.58592,1828.8000000000002,FWS R2 PORT #1,NM,14530,Forest Technology System - F6 (F6),Fish and Wildlife Service,Portable Return BLM
+128,TT431,32.98167,-110.21222,1078.992,IRAWS 52 (GOODWIN),AZ,61772,,,
+129,TT862,34.19145,-105.72613,1981.2,CIBOLA PORTABLE #2,NM,239078,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+130,QRCA3,31.76111,-109.34861,1737.3600000000001,RUCKER,AZ,2806,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+131,TT858,33.67317,-110.57322,1778.508,TANKS,AZ,239068,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM
+132,TT857,34.30617,-110.23661,1969.3128000000002,PINEDALE,AZ,239067,Forest Technology System - F6 (F6),Bureau of Land Management - Phoenix,Modified BLM

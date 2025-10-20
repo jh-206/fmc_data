@@ -1,0 +1,158 @@
+,stid,lat,lon,elev,NAME,STATE,id,DCP Info,Field Maint,Maint Cont
+0,DNFI1,46.62319,-116.22069,518.1600000000001,DENT,ID,2025,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+1,FHFI1,47.13518,-115.8766,1301.496,FISH HOOK,ID,2033,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+2,LPFI1,45.37837,-115.1882,1772.1072000000001,LODGEPOLE,ID,2049,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Depot BLM
+3,PLFI1,45.63747,-116.46894,413.6136,PITTSBURG LANDING,ID,2058,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+4,SADI1,48.93855,-116.73451,1560.576,SADDLE PASS,ID,2069,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+5,SFFI1,44.9429,-116.1882,1614.5256000000002,SKI HILL,ID,2072,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+6,SRFI1,45.09972,-116.73782,1333.8048000000001,SNAKE RIVER,ID,2075,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Depot BLM
+7,MCLI1,44.90433,-115.73858,1577.3400000000001,TEA POT,ID,2076,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Depot BLM
+8,WEFI1,44.84733,-116.42767,1159.4592,WEISER RIVER,ID,2081,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+9,LMRM8,44.68667,-112.54167,2071.116,ANTELOPE,MT,2082,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+10,BIFM8,48.62495,-115.58102,1277.112,BC BALDY,MT,2085,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+11,BEFM8,47.49526,-112.88453,1637.9952,BENCHMARK,MT,2086,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+12,BRRM8,44.93656,-113.25239,2021.1288000000002,BRENNER,MT,2093,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+13,CYFM8,48.87658,-114.50935,1981.2,HORNET,MT,2097,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+14,GAAM8,46.221,-112.22853,1994.9160000000002,GALENA,MT,2102,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+15,GINM8,46.32917,-111.58806,1331.976,GINGER,MT,2103,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+16,PRDM8,47.26833,-114.91694,1392.6312,PARDEE,MT,2116,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+17,RRDM8,44.68286,-111.82589,2035.1496000000002,RED ROCK,MT,2121,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+18,BRLW4,44.59722,-104.42806,1609.344,BEAR LODGE,WY,2438,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+19,SPKW4,44.30793,-106.98246,2469.1848,SCHOOL HOUSE,WY,2465,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+20,IPFI1,44.42051,-111.36741,1931.5176000000001,ISLAND PARK,ID,2854,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+21,HRWM8,46.73167,-112.01917,1158.24,HELENA,MT,2858,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+22,HNYM8,48.38333,-114.0575,951.8904,HUNGRY HORSE,MT,2859,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+23,BLMM8,46.82073,-114.10089,1039.9776000000002,BLUE MTN,MT,2862,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+24,PNTM8,47.04136,-113.98631,2407.0056,POINT 6,MT,2864,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+25,WSRM8,46.54308,-110.9058,1542.288,WHITE SULPHUR SPRING,MT,2867,Forest Technology System - FWS12S (F12S),Bureau of Land Management - Boise,Modified BLM
+26,THMI1,44.39583,-112.10806,2019.3000000000002,3 MILE,ID,3338,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+27,BFYI1,48.72839,-116.28911,707.1360000000001,BONNERS FERRY,ID,3341,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+28,HOOI1,48.05331,-116.79335,691.8960000000001,HOODOO,ID,3363,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+29,LCKI1,47.11092,-116.22518,1566.672,LINES CREEK,ID,3365,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+30,NUCI1,47.50415,-115.93686,1219.2,NUCKOLS,ID,3372,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+31,PLKI1,48.57418,-116.95787,792.48,PRIEST LAKE,ID,3376,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+32,FINM8,47.04593,-114.11207,1353.6168,FINNEYS MEADOW QD,MT,3388,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+33,CONM8,47.53611,-113.71722,1122.8832,CONDON WORK CENTER,MT,3390,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+34,ENNM8,45.30215,-111.75415,1541.0688,ENNIS,MT,3392,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+35,EURM8,48.89781,-115.05836,802.2336,EUREKA,MT,3393,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+36,LBBM8,48.40361,-115.53917,630.936,LIBBY,MT,3399,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+37,NINM8,47.07133,-114.40139,1010.1072,NINE MILE,MT,3402,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+38,PLAM8,47.46622,-114.87961,756.2088,PLAINS,MT,3404,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+39,FCRM8,45.33,-112.91278,2262.2256,FRENCH CREEK,MT,3406,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+40,SEEM8,47.17597,-113.44439,1258.824,SEELEY LAKE,MT,3412,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+41,STGM8,47.30711,-115.10761,816.2544,ST. REGIS,MT,3416,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+42,THAM8,47.57591,-115.28439,739.4448,THOMPSON FALLS A/P,MT,3418,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+43,TROM8,48.48165,-115.90507,612.3432,TROY,MT,3421,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+44,WHHM8,45.8715,-112.10821,1338.0720000000001,WHITEHALL,MT,3423,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+45,WRSM8,45.78828,-112.93831,1766.0112000000001,WISE RIVER,MT,3424,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+46,YKAM8,48.91667,-115.65667,914.4000000000001,YAAK (UPPER FORD),MT,3425,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+47,CSBN8,48.96806,-104.00222,650.4432,CROSBY,ND,3795,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+48,JCSN8,48.61528,-100.72917,438.91200000000003,J. CLARK SALYER,ND,4088,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+49,MLKM8,48.48722,-104.47583,601.98,MEDICINE LAKE,MT,5980,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+50,AWWN8,47.26667,-98.86667,463.29600000000005,ARROWWOOD 2,ND,5981,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+51,HMDN8,48.52806,-98.62361,482.1936,HAMPDEN,ND,5982,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+52,MRLS2,45.80389,-97.45083,612.648,MARSHALL CO,SD,5983,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+53,HBOM8,45.10392,-108.21972,1214.9328,HILLSBORO,MT,6209,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+54,GSNM8,47.8725,-112.67083,1542.288,GLEASON,MT,6504,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+55,DVLW4,44.58179,-104.7195,1180.1856,DEVILS TOWER,WY,6589,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+56,RHUS2,44.24111,-98.77,571.8048,HURON,SD,8673,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+57,FIRM8,48.36306,-115.31944,658.368,FISHER RIVER,MT,10919,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+58,LLKS2,45.87778,-99.41083,618.744,SAND LAKE,SD,12818,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+59,TS428,46.89491,-103.37779,829.3608,PAINTED CANYON,ND,13563,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+60,TS633,46.68139,-100.23833,559.308,LONG LAKE NWR,ND,16966,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+61,TS680,47.32594,-101.37736,518.1600000000001,KNIFE RIVER,ND,21440,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+62,EKHM8,46.315,-111.69669,1872.6912000000002,ELKHORN,MT,22039,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+63,SFJM8,46.72278,-110.40639,1920.24,SOUTH FORK JUDITH,MT,22173,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+64,HRKM8,44.465,-112.95194,2560.32,HARKNESS,MT,24680,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+65,BTKM8,44.9475,-111.96111,2119.5792,BURNT CREEK,MT,24770,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+66,DBOM8,47.13281,-111.90081,1088.7456,DEARBORN,MT,24809,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+67,CLWM8,47.01361,-113.33306,1170.1272000000001,CLEARWATER,MT,25840,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+68,TS911,46.57921,-112.08008,1469.136,HELENA PORTABLE #1,MT,27483,,,
+69,SLCM8,45.60475,-113.34628,1952.2440000000001,STEELE CREEK,MT,27651,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+70,HYGM8,46.66403,-113.42392,1641.6528,HARVEY GROUSE,MT,29594,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+71,TT064,48.413,-114.7365,1517.904,SWANEY,MT,31088,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+72,TT236,46.77928,-111.79394,1365.1992,HELENA PORTABLE #2,MT,41067,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+73,YNKM8,46.16273,-113.14105,1828.8000000000002,YANKEE FLAT,MT,41069,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+74,SHDS2,45.67319,-102.16589,747.0648,SHADEHILL,SD,41086,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+75,NCRM8,46.73692,-110.8512,1717.548,NEWLAN CREEK,MT,41343,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+76,OBRM8,46.00065,-113.66662,2404.5672,OBRIEN RIDGE,MT,43671,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+77,TT353,45.14538,-116.31475,1645.92,CDA-BLM 3 QD,ID,47389,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+78,SFRS2,44.45823,-103.81873,1188.1104,SPEARFISH,SD,92611,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+79,TT584,46.36207,-102.06205,723.9000000000001,WILLIAMS LOOKOUT,ND,92627,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+80,TT610,44.31906,-108.8965,1682.496,DRY CREEK,WY,104004,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+81,SPOM8,47.92389,-113.52472,1135.38,SPOTTED BEAR RS,MT,2127,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+82,PHYM8,46.83821,-110.71813,2509.1136,PORPHYRY,MT,3571,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+83,TR276,47.33703,-112.55367,1493.52,L-C PORTABLE #1,MT,3398,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+84,TRCM8,47.86686,-115.62784,725.1192000000001,CABINET (TROUT CREEK),MT,3420,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+85,PHGM8,46.31667,-113.3,1609.344,PHILIPSBURG,MT,3403,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+86,MAEI1,47.88373,-116.29898,1438.6560000000002,MAGEE PEAK,ID,3343,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+87,TR368,44.39781,-113.97289,2674.0104,S-C PORTABLE #1,ID,3576,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+88,TS696,45.99367,-107.99925,875.9952000000001,BILLINGS QD #1,MT,14221,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+89,TT101,45.07172,-116.40208,1539.24,PAYETTE PORTABLE #1,ID,31822,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+90,TR464,47.43087,-108.21138,631.5456,LEWISTOWN PORT #1,MT,3791,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+91,TS588,46.8902,-102.26283,686.4096000000001,MILES CITY PORTABLE_2014,ND,15174,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+92,TR287,45.4922,-109.91508,1777.8984,CUSTER #1 PORTABLE,MT,3409,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+93,TT032,48.0916,-116.5454,1255.4712,IRAWS 1,ID,30932,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Incident RAWS
+94,TT078,46.76572,-112.8744,2162.8608,IRAWS 8 (GOBBLER),MT,31305,,,
+95,MSLM8,46.96655,-113.54405,1243.584,MISSOULA QD1,MT,16967,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+96,TS815,45.31338,-115.81581,2168.0424000000003,KELLY RIDGE,ID,24418,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+97,TT745,46.91663,-113.65655,1147.5720000000001,MISSOULA QD2,MT,174930,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+98,TS897,45.64255,-105.97622,1246.632,ASHLAND PORTABLE,MT,27142,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+99,LWDN8,48.64806,-102.40639,691.8960000000001,LOSTWOOD,ND,4089,Forest Technology System - F6 (F6),Fish and Wildlife Service,FTS AOM
+100,TT367,44.4323,-116.06585,1737.3600000000001,PRAWS 1,ID,47851,,,
+101,TT230,48.08753,-115.44538,1006.7544,KOOTENAI PORTABLE #3,MT,40832,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+102,TR463,45.37745,-111.96487,2046.7320000000002,BUTTE PORTABLE #2,MT,3790,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+103,TT339,47.726,-113.71183,2033.016,SWAN LAKE FIRE QD,MT,47133,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+104,TR279,46.99865,-114.34983,1378.9152000000001,LOLO PORTABLE #1,MT,3401,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+105,TT710,46.78105,-114.5889,1374.6480000000001,LOLO PORTABLE #6,MT,171583,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+106,TT166,48.8185,-115.34375,1821.18,KNF PORTABLE 2,MT,34521,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+107,TT481,48.5704,-115.14613,1444.1424000000002,KSANKA PORTABLE 1,MT,63244,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+108,TT350,46.56562,-113.81222,2048.2560000000003,LOLO PORTABLE #5,MT,47369,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+109,TR286,47.37542,-115.4235,1311.5544,LOLO PORTABLE #2,MT,3408,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+110,TR726,48.33475,-113.94595,1094.232,HUNGRY HORSE QD,MT,6001,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+111,TS495,45.92803,-114.22325,1676.4,BITTERROOT QD#2 - PORT,MT,13742,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+112,TT434,44.57316,-116.1749,2050.0848,IRAWS 55 (FOUR CORNERS),ID,61778,,,
+113,TCTM8,45.15694,-109.36056,1950.72,TIMBERCREST,MT,3419,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+114,TR285,46.58958,-114.16912,1846.1736,BITTERROOT QD#1 - PORT,MT,3407,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+115,TR587,46.31472,-115.4242,1609.344,CECILIA PORTABLE,ID,5531,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+116,TS395,44.68405,-116.88228,1522.476,PAYETTE PORTABLE #3,ID,13361,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+117,TS949,47.62583,-113.69222,1679.448,PONY CREEK,MT,29002,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+118,TR369,45.53108,-111.02017,1964.7408,GNF WEST ZONE-PORTABLE,MT,3579,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+119,TS256,46.82767,-115.01567,1859.2800000000002,OPHELIA PORTABLE,ID,10902,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+120,TT727,47.90381,-113.4405,2195.1696,SPOTTED BEAR LOOKOUT,MT,173929,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+121,GPKM8,47.78972,-112.93944,1645.92,GATES PARK,MT,3387,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+122,TT803,45.85658,-116.46889,1373.4288000000001,JOSEPH PLAINS,ID,218454,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+123,TS684,47.06031,-115.25872,1844.9544,ST. JOE PORTABLE,ID,21733,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+124,TT726,47.9827,-114.3562,1729.74,BLACKTAIL,MT,173928,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+125,TT435,46.74977,-112.8153,1959.2544,IRAWS 56 (NO NAME),MT,61779,,,
+126,TT436,46.71039,-112.87119,2293.0104,IRAWS 57 (OLD BALDY),MT,61780,,,
+127,TT437,45.42421,-112.0006,2227.4784,IRAWS 58 (HARRIS CREEK),MT,61781,,,
+128,TT438,45.57749,-111.9897,2494.1784000000002,IRAWS 59 (WILLOW CREEK),MT,61782,,,
+129,TT439,48.12899,-116.4777,602.8944,IRAWS 60 (TALACHE),ID,61783,,,
+130,SPBM8,48.48825,-114.83975,1606.6008000000002,TALLY LAKE QD,MT,3413,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+131,TT758,47.26655,-113.62025,1639.2144,LOLO PORTABLE #7,MT,179101,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+132,TT756,44.7318,-105.5357,1243.584,BUFFALO PORTABLE,WY,178463,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+133,TS174,44.68417,-116.88222,1514.5512,PAYETTE PORTABLE #2,ID,9209,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+134,VLRW4,44.9295,-109.71467,2239.0608,SHF1 - FTS QD,WY,3471,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+135,TT346,48.59203,-116.12583,1057.656,IPNF NORTH ZONE QD#1,ID,47315,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+136,TT541,45.91773,-105.61177,983.5896,MILES CITY PORTABLE 2019,MT,86000,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+137,BDLM8,45.10758,-112.0345,1965.0456000000001,BEAVERHEAD DEERLODGE QD#2,MT,23843,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+138,TT514,47.69488,-115.58388,940.6128,CABINET PORTABLE 1,MT,71539,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+139,SRWW4,44.68056,-107.66361,2901.6960000000004,BHF1 PORTABLE,WY,14239,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+140,TT772,45.86031,-114.20311,1529.7912000000001,BITTERROOT QD#4 - PORT,MT,199802,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+141,TT635,44.56942,-111.33587,1970.5320000000002,C-T PORTABLE 4,ID,152699,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+142,TS705,47.19283,-108.08817,913.1808000000001,LEWISTOWN PORT #2,MT,14722,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+143,TT234,47.12631,-113.1515,1256.0808,LOLO PORTABLE #4,MT,40931,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+144,TT804,44.31839,-106.87061,2125.98,BHF2 PORTABLE,WY,218610,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+145,TT746,47.75,-115.94053,1083.2592,IPNF QD1,ID,174963,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+146,TS895,47.61292,-115.45187,1140.5616,LOLO PORTABLE #3,MT,26902,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+147,TR267,46.2567,-112.43705,1898.5992,BEAVERHEAD DEERLODGE QD#1,MT,3389,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+148,TT785,47.35633,-115.2587,1334.4144000000001,LOLO PORTABLE #8,MT,207370,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+149,TT786,46.79958,-113.90187,1706.88,LOLO PORTABLE #9,MT,207371,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+150,TR588,47.09117,-110.8255,1447.8000000000002,LEWIS-CLARK PORTABLE #2,MT,1679,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+151,TR259,46.83258,-116.16637,1046.0736,TESS  - PORTABLE,ID,3381,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+152,TT838,45.88317,-110.89511,2074.164,BATTLE RIDGE,MT,231921,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+153,TT851,48.64803,-114.58333,1670.304,MT DNRC PORTABLE #1,MT,238975,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Warranty
+154,TT839,45.03464,-109.409,2979.1152,QUAD CREEK,MT,231922,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+155,TT852,45.37404,-111.96432,2041.8552000000002,MT DNRC PORTABLE #2,MT,238976,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Warranty
+156,TT863,47.15362,-114.7443,1446.8856,LOLO PORTABLE #10,MT,239126,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM

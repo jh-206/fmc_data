@@ -1,0 +1,264 @@
+,stid,lat,lon,elev,NAME,STATE,id,DCP Info,Field Maint,Maint Cont
+0,PLFI1,45.63747,-116.46894,413.6136,PITTSBURG LANDING,ID,2058,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+1,SADI1,48.93855,-116.73451,1560.576,SADDLE PASS,ID,2069,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+2,SRFI1,45.09972,-116.73782,1333.8048000000001,SNAKE RIVER,ID,2075,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Depot BLM
+3,WEFI1,44.84733,-116.42767,1159.4592,WEISER RIVER,ID,2081,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+4,AGFO3,42.55222,-124.05778,75.2856,AGNESS2,OR,2207,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+5,ALFO3,43.92139,-119.59639,1621.536,ALLISON,OR,2208,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+6,ATFO3,44.03972,-118.41639,1969.008,ANTELOPE,OR,2209,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+7,BGFO3,44.03386,-120.40722,1740.4080000000001,BADGER CREEK,OR,2210,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+8,BKFO3,42.69361,-124.03944,1106.424,BALD KNOB,OR,2211,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+9,OKFO3,43.52831,-121.81601,1490.7768,BLACK ROCK,OR,2214,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+10,BCFO3,44.59811,-119.30765,1453.8960000000002,BOARD CREEK,OR,2217,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+11,BOFO3,44.72194,-122.00306,1079.9064,BOULDER CREEK,OR,2218,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+12,IRFO3,44.32408,-119.76919,1743.1512,BRER RABBIT,OR,2219,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+13,TPEO3,43.83508,-121.08339,1443.228,TEPEE DRAW,OR,2228,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+14,CEFO3,44.96158,-118.93231,1178.0520000000001,CASE,OR,2230,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+15,CIFO3,43.32083,-122.10667,1473.4032,CINNAMON,OR,2234,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+16,CSFO3,44.35497,-120.13369,1414.2720000000002,COLD SPRINGS,OR,2236,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+17,CGFO3,44.31692,-121.60694,984.8088,COLGATE,OR,2237,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+18,CPFO3,44.15722,-118.47139,1676.4,CRANE PRAIRIE,OR,2238,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+19,CWFO3,43.84119,-118.95203,1576.4256,CROW FLAT,OR,2239,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+20,ENFO3,45.87639,-117.61639,1280.16,EDEN,OR,2242,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+21,EMFO3,43.48306,-122.23028,1150.0104000000001,EMIGRANT,OR,2243,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+22,FMFO3,44.29694,-119.03694,1813.2552,FALL MOUNTAIN,OR,2245,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+23,FEFO3,43.68053,-122.30203,1022.2992,FIELDS,OR,2246,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+24,GDFO3,43.41583,-122.57722,883.9200000000001,GRANDAD,OR,2253,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+25,HYFO3,44.44975,-121.12997,965.6064,HAYSTACK,OR,2257,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+26,KEEO3,44.66611,-118.92194,1560.576,KEENEY TWO,OR,2264,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+27,LBFO3,43.92522,-121.34314,1417.3200000000002,LAVA BUTTE,OR,2266,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+28,LGFO3,45.49658,-121.89646,869.8992000000001,LOG CREEK,OR,2268,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+29,MSFO3,42.93611,-122.43472,1432.5600000000002,MOUNT STELLA,OR,2273,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+30,OMFO3,42.45408,-123.61613,1349.9592,ONION MOUNTAIN LOOKOUT,OR,2278,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+31,PEFO3,44.23667,-121.995,1053.6936,PEBBLE,OR,2284,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+32,PYFO3,45.45861,-121.44639,1024.7376000000002,POLLYWOG,OR,2286,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+33,QPFO3,42.24222,-124.04528,970.1784,QUAIL PRAIRIE LOOKOUT,OR,2290,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+34,RXFO3,45.0275,-121.92111,1019.556,RED BOX,OR,2291,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+35,BTFO3,45.68167,-117.20639,1299.3624,ROBERTS BUTTE,OR,2295,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+36,RNFO3,43.75717,-121.71039,1771.8024,ROUND MOUNTAIN,OR,2297,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+37,SDFO3,42.4075,-122.19139,1485.9,SELDOM CREEK,OR,2302,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+38,SLFO3,44.46244,-120.29447,1703.5272,SLIDE MOUNTAIN,OR,2305,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+39,SQFO3,42.06972,-123.01167,1513.0272,ACORN WOMAN PEAK,OR,2307,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+40,SGFO3,43.66361,-122.62917,1319.1744,SUGARLOAF,OR,2310,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+41,TOFO3,43.21856,-122.41258,1024.1280000000002,TOKETEE,OR,2313,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+42,TUFO3,45.06639,-119.49111,1298.448,TUPPER,OR,2315,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+43,WMFO3,45.24034,-121.45423,1003.4016,WAMIC MILL,OR,2318,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+44,WKFO3,44.33247,-123.71797,410.2608,WILKINSON RIDGE,OR,2319,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+45,BBFO3,42.685,-122.39028,1246.3272000000002,ZIM,OR,2321,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+46,BMFW1,48.53736,-118.69422,960.12,BROWN MTN. ORCHARD,WA,2369,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+47,CMFW1,48.025,-120.24139,961.9488,CAMP 4,WA,2370,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+48,CYFW1,45.92944,-122.20278,790.0416,CANYON CREEK,WA,2371,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+49,CGFW1,47.93886,-123.06919,731.52,COUGAR MOUNTAIN,WA,2374,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+50,DMFW1,48.79608,-117.44594,1018.032,DEER MOUNTAIN,WA,2375,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+51,DIFW1,48.11556,-120.10444,1086.9168,DOUGLAS INGRAM RIDGE,WA,2377,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+52,DRYW1,47.72722,-120.53972,1115.8728,DRY CREEK,WA,2378,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+53,FIFW1,48.39236,-121.81828,658.368,FINNEY CREEK,WA,2381,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+54,FBFW1,48.61917,-120.10861,1679.1432,FIRST BUTTE,WA,2382,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+55,FTFW1,48.29722,-117.40622,816.864,FLOWERY TRAIL,WA,2383,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+56,GHFW1,48.24294,-121.54614,1021.08,GOLD HILL,WA,2384,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+57,JEFW1,47.5491,-123.21759,733.9584,JEFFERSON CREEK,WA,2396,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+58,SKKW1,47.79992,-121.286,618.1344,JOHNSON RIDGE,WA,2397,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+59,KCFW1,48.92022,-121.94264,1062.228,KIDNEY CREEK,WA,2400,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+60,LCFW1,48.61092,-118.27889,1350.2640000000001,LANE CREEK,WA,2403,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+61,LEFW1,48.25056,-120.00333,1521.2568,LEECHER,WA,2404,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+62,LSFW1,47.21,-121.48972,498.9576,LESTER,WA,2405,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+63,LLFW1,48.87528,-119.06667,1181.4048,LOST LAKE,WA,2406,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+64,NCSW1,48.42528,-120.14194,517.2456000000001,NCSB,WA,2411,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+65,OCFW1,46.35389,-121.60417,906.4752000000001,ORR CREEK,WA,2414,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+66,OMFW1,48.93531,-118.29725,1085.088,OWL MOUNTAIN,WA,2415,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+67,PMFW1,48.39033,-117.58547,950.976,PAL MOORE ORCHARD,WA,2417,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+68,PEOW1,48.60306,-119.21639,1159.4592,PEONY,WA,2419,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+69,QCNW1,47.82306,-122.88306,18.8976,QUILCENE,WA,2420,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+70,MEFW1,46.9675,-121.08444,914.4000000000001,SAWMILL FLATS,WA,2422,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+71,FWFW1,47.2575,-120.67556,1060.704,SWAUK,WA,2428,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+72,TCFW1,48.49056,-117.43558,987.552,TACOMA CREEK,WA,2429,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+73,FTAW1,47.45678,-121.66517,481.584,FIRE TRNG. ACADEMY,WA,2432,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+74,BKRW1,46.05667,-121.53861,825.3984,BUCK CREEK,WA,2434,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+75,VPFW1,47.85528,-120.89028,1126.236,VIEWPOINT,WA,2435,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+76,WPKO3,45.10919,-122.19641,1302.7152,WANDERERS PEAK,OR,2475,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+77,HOOI1,48.05331,-116.79335,691.8960000000001,HOODOO,ID,3363,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+78,PLKI1,48.57418,-116.95787,792.48,PRIEST LAKE,ID,3376,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+79,BLKO3,45.57361,-118.23861,1513.332,BLACK MTN RIDGE,OR,3444,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+80,STRW1,48.34694,-120.72028,374.904,STEHEKIN-AIRSTRIP,WA,3466,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+81,TOFW1,48.02234,-123.9583,731.52,TOMS CREEK,WA,3467,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+82,FNWO3,44.41833,-123.32528,93.8784,CORVALLIS,OR,4036,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+83,KMRO3,42.95333,-121.58194,1381.0488,KLAMATH MARSH,OR,4037,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+84,UMTO3,45.91667,-119.56667,82.296,UMATILLA,OR,4038,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+85,OTOW1,46.88139,-119.32417,260.604,OTHELLO,WA,4039,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+86,LPOW1,48.46083,-117.73306,623.316,LITTLE PEND OREILLE NWR,WA,4040,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+87,TWRW1,47.4175,-117.52833,679.7040000000001,CHENEY,WA,4041,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+88,SDMW1,46.69333,-119.69333,193.2432,SADDLE MOUNTAIN,WA,4100,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+89,MBMW1,48.53944,-121.44611,108.81360000000001,MARBLEMOUNT,WA,6276,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+90,DCCW1,45.94361,-121.9875,822.0456,DRY CRK,WA,6517,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+91,OHAW1,46.73111,-121.57111,594.36,OHANAPECOSH,WA,6848,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+92,IMTW1,48.56361,-118.62039,1325.88,IRON MOUNTAIN,WA,8307,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+93,CHRO3,43.67006,-123.94217,366.9792,CHARLOTTE RIDGE,OR,8701,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+94,BHRO3,44.60389,-120.68472,1276.5024,BOARD HOLLOW,OR,10945,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+95,CCRO3,43.72528,-122.80556,928.7256000000001,GREEN MOUNTAIN,OR,10946,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+96,SMCO3,43.21,-124.3175,133.5024,SEVEN MILE CREEK,OR,10947,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+97,LGPO3,42.95333,-124.22333,333.1464,LONG PRAIRIE,OR,10948,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+98,EGKO3,45.36794,-122.33097,224.63760000000002,EAGLE CREEK,OR,10949,Forest Technology System - FWS12S (F12S),United States Forest Service,Depot BLM
+99,FPRO3,42.39556,-124.37861,470.3064,FLYNN PRAIRIE,OR,10950,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+100,MMRO3,45.57944,-121.59694,788.8224,MIDDLE MTN,OR,10952,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+101,MLLO3,46.0225,-123.27167,333.75600000000003,MILLER,OR,10953,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+102,TWRO3,46.01147,-123.55628,622.4016,TIDEWATER,OR,10954,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+103,RKHO3,44.925,-123.46944,581.8632,ROCKHOUSE 1,OR,10955,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+104,SFKO3,45.59528,-123.48361,696.7728000000001,SOUTH FORK,OR,10956,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+105,SYNO3,44.71756,-122.69225,229.20960000000002,JORDAN,OR,10957,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+106,TMKO3,45.45722,-123.8025,18.8976,TILLAMOOK,OR,10958,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+107,TMRO3,44.04944,-121.40028,1202.4360000000001,TUMALO RIDGE,OR,10959,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+108,WSBO3,45.61667,-121.33528,712.0128000000001,WASCO BUTTE,OR,10960,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+109,GELO3,44.60778,-123.475,262.128,GELLATLY,OR,12843,Forest Technology System - F6 (F6),United States Forest Service,Depot BLM
+110,NSJW1,48.58808,-123.1486,18.288,NPS ENGLISH CAMP,WA,27151,Campbell Scientific - CR1000 (CR1K),National Park Service,
+111,YTCW1,46.67522,-120.34725,612.9528,YTC-RC,WA,28323,Forest Technology System - F6 (F6),"Cooperator, Contractor, etc.",FTS AOM
+112,DSRO3,45.6043,-122.0433,15.5448,NRAWS 3 (DODSON),OR,29976,Vaisala - 555 (H555),National Weather Service,Other
+113,TT246,47.73258,-120.24315,861.0600000000001,ENTIAT,WA,41317,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+114,PC013,42.04713,-122.64347,1080.516,Colestin,OR,94320,,,
+115,PC026,42.38288,-123.45535,280.7208,Wilderville,OR,100238,,,
+116,PC031,43.16292,-123.40179,147.2184,Happy Valley,OR,100298,,,
+117,TT603,48.83,-119.50639,556.26,SPECTACLE LAKE,WA,103853,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+118,PC035,43.36272,-124.14771,2.4384,Eastside,OR,155505,,,
+119,PC038,42.1339,-123.60828,417.2712,Takilma-Micro,OR,155508,,,
+120,PC039,42.43574,-123.4197,266.3952,Upper River Rd,OR,155509,,,
+121,PC040,42.97735,-123.18685,153.0096,Days Creek,OR,155510,,,
+122,PC048,46.06549,-118.75296,199.9488,Nine Mile Hill,WA,155518,,,
+123,PC049,46.86618,-120.77552,687.3240000000001,Upper Wenas,WA,155519,,,
+124,TT692,44.8131,-123.6485,509.9304,CHANDLER,OR,166506,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+125,TT705,47.70225,-122.5485,46.3296,BAINBRIDGE ISLAND,WA,170722,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Full BLM
+126,NSMPN,45.06913,-122.68469,94.7928,North Scotts Mills (Nowlens Bridge Rd)-Destroyed,OR,172853,,,
+127,EACPN,45.18727,-122.36304,347.47200000000004,East Colton (Cox Rd),OR,172854,,,
+128,SHRPN,45.11429,-122.55266,184.0992,S Herman Road,OR,172855,,,
+129,NPPPN,45.63739,-123.00258,180.44160000000002,North Plains (Pumpkin Rd),OR,172857,,,
+130,FLZPN,45.07075,-122.54016,400.5072,Foltz Road,OR,172858,,,
+131,HLVPN,45.60995,-122.91883,147.5232,Helvetia (Bishop Rd),OR,172861,,,
+132,SSMPN,44.97626,-122.60055,567.5376,South Scotts Mills (Crooked Finger Rd),OR,172864,,,
+133,LARPN,45.5109,-122.20002,420.3192,Larch Mountain Road,OR,172866,,,
+134,ESEPN,45.27404,-122.27843,354.78720000000004,SE Estacada (Divers Rd),OR,172869,,,
+135,KELPN,45.41799,-122.38009,185.928,Kelso Road,OR,172871,,,
+136,HOWPN,45.36397,-122.32537,229.20960000000002,Howlett Road,OR,172872,,,
+137,EVNPN,45.51085,-122.28876,164.8968,Evans Road,OR,172873,,,
+138,LEEPN,45.44623,-123.24811,82.9056,SW Horner Lane,OR,173515,,,
+139,MTSPN,45.42198,-123.13886,70.7136,Matteson Road,OR,173516,,,
+140,GDNPN,45.46914,-122.246,293.2176,Gordon Creek Road,OR,173517,,,
+141,RDGPN,45.39628,-123.11558,97.2312,Ridge Road,OR,173775,,,
+142,DCRPN,45.67926,-123.06569,94.488,Dairy Creek Road,OR,173910,,,
+143,MDWPN,45.2911,-123.24853,67.9704,Meadowlake Road,OR,173914,,,
+144,KNRPN,45.48737,-123.13774,87.47760000000001,Knight Road,OR,173938,,,
+145,BMPPN,45.70671,-123.08334,285.9024,Bump Road,OR,173939,,,
+146,PHRPN,45.29812,-123.32213,117.04320000000001,Panther Creek Road,OR,173945,,,
+147,QRDPN,45.42451,-123.17101,204.216,Quail Run Drive,OR,173949,,,
+148,TRNPN,45.38363,-123.26947,100.8888,Turner Creek Road,OR,174098,,,
+149,WRHPN,45.61347,-123.2454,114.60480000000001,Wilson River Highway,OR,174740,,,
+150,SDSPN,45.58403,-123.21745,88.08720000000001,Soda Springs Road,OR,174741,,,
+151,MSNPN,45.17345,-123.29881,80.1624,Masonville Road,OR,174742,,,
+152,ENGPN,45.35495,-123.29147,279.1968,Enger Lane,OR,174743,,,
+153,PTVPN,45.44764,-123.22575,75.2856,Patton Valley Road,OR,174744,,,
+154,GOSPN,45.00624,-123.4587,154.8384,Gooseneck Road,OR,174745,,,
+155,GRNPN,45.0821,-123.61177,114.60480000000001,Grand Ronde Road,OR,174746,,,
+156,LTHPN,45.11729,-123.33126,69.7992,Latham Road,OR,174747,,,
+157,THMPN,45.17392,-123.38607,85.95360000000001,Thomson Mill Road,OR,174749,,,
+158,BRNPN,44.99923,-123.35911,80.1624,Brown Road,OR,174750,,,
+159,O22PN,45.05045,-123.48341,109.72800000000001,22345 OR-22,OR,174751,,,
+160,WLSPN,45.30768,-122.76192,57.607200000000006,Wilsonville,OR,177726,,,
+161,MRTPN,45.40939,-122.20165,366.9792,Marmot Road,OR,172870,,,
+162,KTLW1,48.58258,-118.10858,399.288,KETTLE FALLS,WA,2399,Forest Technology System - F6 (F6),National Park Service,Depot BLM
+163,TT101,45.07172,-116.40208,1539.24,PAYETTE PORTABLE #1,ID,31822,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+164,TT333,42.12542,-122.70825,1437.132,SISKIYOU MTN FIRE PORT,OR,46403,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+165,TT103,42.2432,-119.99412,1771.1928,LAKEVIEW BLM FUELS QD#2,OR,31856,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+166,TT535,48.00598,-118.01617,1036.3200000000002,BIG BLUE,WA,75288,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+167,TS627,44.94953,-123.25531,69.1896,WEST ZONE PORTABLE,OR,16593,Forest Technology System - F6 (F6),Fish and Wildlife Service,Depot BLM
+168,OKPW1,47.83105,-120.3112,1133.856,WAOWF QD 1705,WA,34535,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+169,CAFO3,43.49931,-121.05839,1389.8880000000001,CABIN LAKE,OR,2225,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+170,PKFO3,43.03639,-122.65536,690.0672000000001,BUCKEYE,OR,2222,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+171,TS674,42.82714,-118.88889,1281.0744,MALHEUR PORTABLE,OR,21233,Forest Technology System - F6 (F6),Fish and Wildlife Service,Portable Return BLM
+172,TT513,46.14017,-121.59725,1280.7696,MT HOOD PORTABLE #2,WA,71534,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+173,HGFW1,46.56444,-121.62778,1101.2424,HAGER CREEK,WA,2388,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+174,TT032,48.0916,-116.5454,1255.4712,IRAWS 1 (LIL BLACK TAIL),ID,30932,,,
+175,TT607,43.05445,-120.77672,1536.192,LAKEVIEW BLM FUELS QD#1,OR,104001,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+176,TS950,42.46928,-124.16095,1126.5408,RSF QUICK DEPLOY #1,OR,29004,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+177,TS319,48.32897,-118.75322,795.528,WACOA_PORT1,WA,11353,Forest Technology System - F6 (F6),Bureau of Indian Affairs,Portable Return BLM
+178,TT759,44.13463,-124.00312,216.40800000000002,SUF PORTABLE WFM,OR,179108,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+179,TT017,48.02209,-120.6445,951.2808,IRAWS 19  (COTTONWOOD),WA,30804,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Incident RAWS
+180,TT018,47.96525,-120.51081,1412.748,IRAWS 20 (HALFWAYSPRINGS),WA,30805,,,
+181,TS725,42.62012,-121.73278,1297.8384,CHILOQUIN PORTABLE,OR,22042,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+182,TT040,47.50373,-123.3142,230.73360000000002,IRAWS 34 (CAUSEWAY),WA,30941,,,
+183,TT041,47.51124,-123.2476,1051.8648,IRAWS 35 (ELLINOR),WA,30942,,,
+184,TT582,42.7833,-122.91272,1280.16,UMPQUA PORTABLE 2,OR,91841,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+185,TT626,42.39949,-121.13698,1654.4544,BLY FIRE PORTABLE,OR,116107,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+186,OXDPN,45.48313,-122.31233,201.4728,Oxbow Drive,OR,207201,,,
+187,GRUPN,45.30478,-122.23988,348.69120000000004,SE Gruber Road,OR,207202,,,
+188,RAMPN,45.09991,-122.46352,415.1376,S Ramsby Road,OR,207203,,,
+189,HILPN,45.20709,-122.26767,493.4712,Hillockburn Road,OR,207204,,,
+190,SBCPN,45.20668,-122.47096,269.1384,S Beaver Creek Road,OR,207205,,,
+191,RCRPN,45.37022,-123.17085,76.2,Russell Creek Road,OR,207206,,,
+192,BLUPN,45.26768,-122.48754,228.90480000000002,S Bluhm Road,OR,207207,,,
+193,LAMPN,45.53351,-122.36185,171.29760000000002,NE Lampert Road,OR,207208,,,
+194,TT091,48.5238,-119.01128,914.0952000000001,WACOF QD 21,WA,31574,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+195,NMRPN,45.35535,-122.99711,426.4152,NE Mountain Top Road,OR,216567,,,
+196,TT092,47.39014,-120.90381,1041.1968,WAOWF QD 1703,WA,31575,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+197,TT640,42.09417,-123.07938,975.0552,RSF QUICK DEPLOY #5,OR,154147,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+198,TT450,47.12963,-120.83995,892.1496000000001,WASHINGTON PORTABLE 2,WA,62801,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+199,TT259,43.31711,-122.3145,996.3912,UMPQUA NF PORTABLE #1,OR,42634,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+200,TS679,43.37908,-121.73969,1395.9840000000002,DESCHUTES PORTABLE,OR,21356,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+201,TT767,44.65733,-118.57055,1552.0416,MALHEUR PORTABLE 1,OR,199787,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+202,TT768,44.19097,-118.40331,1659.6360000000002,MALHEUR PORTABLE 2,OR,199788,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+203,TT529,44.39338,-120.30208,1520.952,OCHOCO PORTABLE,OR,71948,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+204,TT483,44.16038,-122.07238,783.336,MCKENZIE PORTABLE,OR,63266,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+205,NWFPN,45.68342,-123.19122,79.248,NW Fisher Road,OR,217335,,,
+206,SHDPN,45.03719,-122.49855,375.8184,S Hardy Road,OR,217336,,,
+207,TNCPN,45.1056,-123.50428,81.3816,SW Tindle Creek Road,OR,217337,,,
+208,BATPN,45.39083,-122.16288,376.7328,SE Baty Road,OR,217338,,,
+209,STLPN,45.681,-122.95298,387.096,NW Stoltenberg Road,OR,217339,,,
+210,RCKPN,45.11715,-123.43297,83.2104,SW Rock Creek Road,OR,217340,,,
+211,WSNPN,45.61451,-123.07594,56.997600000000006,NW Wilson River Hwy,OR,217341,,,
+212,FSMPN,45.33059,-122.36845,113.69040000000001,SE Folsom Road,OR,217342,,,
+213,ZENPN,45.02138,-123.13972,61.8744,Zena Road NW,OR,217344,,,
+214,TS395,44.68405,-116.88228,1522.476,PAYETTE PORTABLE #3,ID,13361,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+215,FRGPN,45.09278,-122.04621,598.6272,Frog Lake,OR,217398,,,
+216,TS517,44.77881,-121.24719,496.824,ORWSA_PORT1,OR,13914,Forest Technology System - F6 (F6),Bureau of Indian Affairs,Portable Return BLM
+217,CPOW1,47.83528,-120.16211,1012.2408,WAOWF QD 1702,WA,40777,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+218,SMVPN,44.56724,-121.25666,785.1648,Southwest Mountain View Drive,OR,218106,,,
+219,SWBPN,44.39252,-121.2201,833.9328,SW Bobcat Court,OR,218117,,,
+220,BPLPN,46.17164,-123.16335,4.572,Beaver Plant,OR,218306,,,
+221,SWTPN,44.9912,-122.51721,657.7584,S Sawtell Road,OR,217343,,,
+222,SRRPN,44.90262,-122.70047,353.56800000000004,Silver Ridge Road SE,OR,218713,,,
+223,PCLPN,44.97435,-122.70625,366.6744,Powers Creek Loop Road,OR,218714,,,
+224,BLFPN,45.41222,-122.27341,262.7376,Bluff Road,OR,218720,,,
+225,TS862,42.62687,-121.73388,1367.028,CHEMULT PORTABLE RAWS,OR,25929,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+226,TT803,45.85658,-116.46889,1373.4288000000001,JOSEPH PLAINS,ID,218454,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Modified BLM
+227,TT439,48.12899,-116.4777,602.8944,IRAWS 60 (TALACHE),ID,61783,,,
+228,TS874,46.2248,-120.7868,1017.1176,YAKAMA_PORT1,WA,26430,Forest Technology System - F6 (F6),Bureau of Indian Affairs,Portable Return BLM
+229,PWLPN,45.49046,-122.46596,86.86800000000001,Powell Blvd,OR,219333,,,
+230,TS174,44.68417,-116.88222,1514.5512,PAYETTE PORTABLE #2,ID,9209,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+231,TT471,46.04936,-121.25681,586.4352,WASHINGTON PORTABLE 1,WA,63142,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+232,HUKW1,47.54833,-118.03411,637.3368,SPOKANE BLM QD #1,WA,28645,Forest Technology System - F6 (F6),Bureau of Land Management - Boise,Portable Return BLM
+233,PVRPN,45.02361,-122.65843,279.5016,Peak View Road NE,OR,219626,,,
+234,NPJPN,45.60351,-122.96745,60.0456,North Plains (Jackson School Rd),OR,172856,,,
+235,SKYPN,45.6074,-122.85881,202.692,Skyline Blvd,OR,172862,,,
+236,TT604,47.9075,-117.39667,624.84,ARCADIA ORCHARDS,WA,103854,Forest Technology System - F6 (F6),State and Private Forestry,Depot BLM
+237,STNPN,45.53246,-123.17083,64.61760000000001,Stringtown Road,OR,173755,,,
+238,CPRW1,46.13675,-117.92669,1263.0912,BIA UMATILLA QD,WA,167479,,,
+239,ANDPN,45.05184,-123.6067,110.64240000000001,Andy Riggs Road,OR,174748,,,
+240,SPRPN,45.36215,-122.45334,128.01600000000002,Springwater Road,OR,172859,,,
+241,ESCPN,45.26978,-122.35566,295.656,SW Estacada (Springwater Rd),OR,172863,,,
+242,ESBPN,45.25198,-122.31732,350.52000000000004,South Estacada (Bard Rd),OR,172867,,,
+243,SCHPN,45.23476,-122.39952,361.18800000000005,South Schockley Road,OR,172868,,,
+244,WDLPN,45.3569,-123.11356,201.7776,Woodland Loop Road,OR,220183,,,
+245,BDRPN,45.36034,-122.51763,104.5464,Bradley Road,OR,172865,,,
+246,FWRPN,45.36475,-122.23353,400.2024,Firwood Rd,OR,173349,,,
+247,HDRPN,45.34725,-122.42286,146.6088,Harding Road,OR,172860,,,
+248,RDSPN,45.31276,-121.89152,578.2056,Rhododendron Substation Lower,OR,160501,,,
+249,MTOPN,45.30214,-121.75562,1170.432,Multorpor Overpass Lower,OR,165948,,,
+250,BNSPN,45.51933,-122.73457,300.8376,Burnside Road,OR,220762,,,
+251,TR461,48.3052,-120.65103,2136.9528,LNF00 PORTABLE,WA,3788,,,
+252,TS951,42.13925,-122.70464,1332.5856,RSF QUICK DEPLOY #2,OR,29005,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+253,SCFPN,44.90332,-122.65174,460.55280000000005,Schafer Lane,OR,232001,,,
+254,GSHPN,45.12012,-122.83938,51.816,Geschwill Lane,OR,232002,,,
+255,LUDPN,45.50515,-122.24764,293.8272,Louden Road,OR,232003,,,
+256,TT213,42.41328,-122.06487,1264.92,WINTER RIM PORTABLE,OR,40538,Forest Technology System - F6 (F6),United States Forest Service,Portable Return BLM
+257,VIAO3,45.85071,-123.19995,205.4352,VERNONIA,OR,199801,Forest Technology System - F6 (F6),State and Private Forestry,Warranty
+258,CFGO3,45.84936,-122.86569,77.4192,COLUMBIA CO FAIRGROUNDS,OR,199895,Forest Technology System - F6 (F6),State and Private Forestry,Warranty
+259,OTECS,44.16983,-118.98747,1428.2928000000002,OTEC Seneca,OR,239979,,,
+260,SMDPN,45.28312,-121.73773,1113.4344,Summit Meadows,OR,239981,,,
+261,SLNPN,45.37699,-121.91005,519.0744000000001,Lolo Pass Rd,OR,219980,,,
+262,ELKPN,44.96964,-122.52807,703.1736000000001,Elk Prairie,OR,251134,,,
