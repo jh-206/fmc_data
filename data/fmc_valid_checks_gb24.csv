@@ -310,4 +310,64 @@ POUC1,"1, 5",1,
 PRGC1,"18, 171",1,
 PRHC1,"1, 242",1,
 QBAA3,"2, 229",0,"filtering all periods, erradic oscillations in some stretches, suspiciously regular others, and some flat"
-QDPA3,,,
+QDPA3,"28, 33",0,"regular and wet, filtered period in between"
+QDPA3,"34, 61",1,
+QDPA3,"62, 67",0,
+QDPA3,"68, 108",1,
+QDPA3,"109, 143",0,
+QDPA3,"144, 228",1,
+QFLA3,"1, 4",1,
+QFLA3,"5, 26",0,flat and filtered into 26
+QFLA3,"27, 243",1,check 136-139
+QPIA3,"1, 88",1,
+QTUA3,"1, 2",1,
+QTUA3,"3, 17",0,"moisture drops dramatically and then rises strangely smoothly into filtered period, then flat"
+QTUA3,"18, 234",1,
+RBVN2,"0, 243",1,
+RCEC1,39,0,"filtered before, then very wet"
+RCEC1,"40, 132",1,
+RCEC1,"133, 141",0,
+RCEC1,"142, 243",1,
+RCKI1,"0, 243",1,
+RLKN2,"1, 9",1,
+RLKN2,"10, 30",0,flat and filtered into 30
+RLKN2,"31, 241",1,check drop at 232-233
+RRCC2,"1, 80",1,check 6
+RRDM8,"0, 32",0,"lots of filtered, regular and flat wet stretches"
+RRDM8,"34, 243",1,"check jagged periods, eg 242-243"
+SFFI1,"40, 126",1,check 100-104
+SFFI1,"127, 152",0,
+SFFI1,"155, 231",1,check 231
+SHQC1,"1, 243",1,"check maximal response to rain, seems to cap out around 27 fmc"
+SHVC1,"1, 2",1,
+SHVC1,"7, 53",0,"lots of filtered, regular and flat wet stretches"
+SHVC1,"54, 243",1,
+SKYN2,"34, 35",0,
+SKYN2,"36, 243",1,
+SLCM8,"0, 9",1,
+SLCM8,"10, 35",0,goes wet and into filtered streches into 35
+SLCM8,"36, 132",1,
+SLCM8,"135, 151",0,"wet and regular into filtered stretch, then into sketchy 151"
+SLCM8,"152, 242",1,
+SRFI1,"5, 31",0,
+SRFI1,"32, 242",1,
+STNI1,"0, 39",0,"mostly filtered, flat stretches at beginning and end"
+STNI1,"40, 111",1,
+STNI1,"116, 156",0,"wet and flat, lots of filtered, nonphysical drop and increase period 118"
+STNI1,"157, 241",1,
+TGFI1,"2, 243",1,
+THHC1,"3, 39",1,
+THMI1,"13, 40",0,"mostly filtered, flat and wet"
+THMI1,"41, 238",1,check 236-238
+TICU1,"13, 71",0,"mostly filtered, some extremely wet spikes"
+TICU1,"73, 201",1,"lots of filtered, check 82"
+TMNC1,"0, 243",1,check 78-79
+TPHC1,"0, 183",1,
+TR123,"1, 73",1,
+TR138,"1, 16",1,
+TR162,"3, 17",1,
+TR172,"1, 82",1,
+TR255,"1, 102",1,
+TR256,"1, 30",1,
+TR257,"2, 91",1,
+TR377,"2, 139",1,check 65
