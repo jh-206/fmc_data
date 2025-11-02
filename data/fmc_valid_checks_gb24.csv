@@ -402,4 +402,103 @@ TS577,"126, 139",1,
 TS586,"0,  243",1,"check 2, 10-14 very flat"
 TS674,"1, 18",1,
 TS682,"1, 70",1,
-TS683,,,
+TS683,"1, 6",0,
+TS683,"11, 78",1,
+TS683,80,0,
+TS715,"1, 129",1,
+TS748,"1, 81",1,
+TS748,"85, 87",0,"filtered before, then flat and regular"
+TS748,88,1,
+TS763,"2, 31",1,
+TS808,"2, 85",1,
+TS815,"1, 39",1,
+TS815,"40, 91",0,starts to smoothly transition into a flat then filtered period
+TS815,"92, 154",1,
+TS815,"155, 160",0,flat and filtered between
+TS828,"2, 24",1,"check all periods, looks odd"
+TS960,"0, 243",1,
+TS961,"0, 243",1,
+TS962,"1, 243",1,
+TSHC1,"0, 243",1,"check 0-4, appears to have a max response to rain"
+TT005,"1, 173",1,
+TT006,"3, 6",1,
+TT010,"2, 11",1,
+TT010,"12, 26",0,wet and flat period into wild and wet oscillations
+TT010,"28, 40",1,
+TT011,"1, 39",1,check 7-8
+TT012,"2, 14",1,
+TT012,"15, 18",0,"wild oscillations, wet when incredibly dry weather"
+TT012,"19, 40",1,
+TT013,"1, 42",1,
+TT015,"1, 54",1,check 23
+TT016,"1, 41",1,
+TT020,"1, 15",1,
+TT020,16,0,
+TT020,"21, 46",1,
+TT021,"2, 45",1,check 10-13
+TT022,"1, 38",1,"check 12, 16-18"
+TT023,"2, 44",1,check 25-29
+TT028,"1, 32",1,
+TT029,"1, 24",1,check 15-19
+TT030,"1, 38",1,
+TT030,"39, 42",0,
+TT030,"43, 49",1,
+TT031,"1, 25",1,
+TT033,"1, 28",1,check 10-14
+TT033,"33, 36",0,flat and wet with dramatic regular drops
+TT036,"1, 33",1,
+TT046,"3, 24",1,
+TT046,"25, 26",0,
+TT046,"29, 38",1,
+TT047,"3, 9",1,
+TT048,"3, 25",1,"check 8, 12"
+TT049,"1, 60",1,"check 31, 60"
+TT050,"3, 6",1,
+TT050,"7, 8",0,
+TT050,"9, 26",1,
+TT050,"27, 38",0,
+TT050,39,1,
+TT053,"2, 11",1,
+TT074,"2, 41",1,
+TT075,"1, 26",1,
+TT076,"2, 42",1,
+TT077,"1, 44",1,
+TT079,"1, 47",1,check 40-43
+TT080,"1, 43",1,"check 13, 21-22"
+TT081,"1, 39",1,
+TT082,"1, 32",1,
+TT084,"2, 96",1,
+TT084,"97, 98",0,
+TT088,"0, 206",1,
+TT101,"1, 8",1,
+TT103,"0, 158",1,"check 5-9, very dry and odd shape"
+TT169,"0, 89",1,
+TT169,"90, 96",0,wet and flat
+TT181,"2, 106",1,
+TT209,"1, 45",1,
+TT213,"1, 84",1,
+TT240,"1, 44",1,
+TT255,"71, 235",1,mostly filtered between
+TT289,"0, 243",1,check 233-234
+TT325,"0, 16",0,incredibly low moisture and odd oscillations
+TT336,"1, 99",1,
+TT336,"100, 137",0,"incredibly sharp oscillations, "
+TT336,"140, 164",1,check 155-160
+TT353,"2, 53",1,
+TT367,"2, 39",1,
+TT370,"0, 81",1,
+TT371,"3, 4",1,
+TT371,"6, 30",0,incredibly dry and low amplitude oscillations
+TT371,"34, 88",1,check 85-88
+TT373,1,1,
+TT374,"0, 45",1,
+TT374,"46, 67",0,too regular and way wetter than forecasted eq
+TT375,"2, 23",1,
+TT375,"25, 27",0,
+TT376,"2, 7",1,
+TT376,9,0,
+TT376,"10, 15",1,
+TT377,2,1,
+TT377,3. 35,0,
+TT377,"41, 52",1,
+TT378,,,
