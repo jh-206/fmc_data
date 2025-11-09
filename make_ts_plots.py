@@ -36,9 +36,6 @@ if __name__ == '__main__':
     n_periods = 5 # number of periods per png plot file
     n_hours = 72 # hours in a period
     for st in ml_data:
-        print("****DEBUG*****")
-        if st == "TT431": print()
-        else: continue
 
         d = ml_data[st]['data']
         max_period = d.st_period.max()
