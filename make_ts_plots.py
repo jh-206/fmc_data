@@ -36,9 +36,9 @@ if __name__ == '__main__':
     n_periods = 5 # number of periods per png plot file
     n_hours = 72 # hours in a period
     for st in ml_data:
-        #print("****DEBUG*****")
-        #if st == "TT255": print()
-        #else: continue
+        print("****DEBUG*****")
+        if st == "TT431": print()
+        else: continue
 
         d = ml_data[st]['data']
         max_period = d.st_period.max()
@@ -59,13 +59,10 @@ if __name__ == '__main__':
             times = np.array(ts)[~pd.isna(ts)]
             thresh = pd.Timedelta(days=90)
             if np.any(pd.to_datetime(times).diff()[1:] > thresh):
-                for i in range(0, len(ts)):
-                    t = ts[i]
+                for t, p0, bb in zip(ts, pi, batch):
                     if pd.isna(t): continue
-                    pp = pi[i]
-                    bb = batch[i]
                     out_file = osp.join(out_dir, f"{st}_{bb}_{bb}.png")
-                    ts_plot(ml_data, st, [t], [pp], t, t+pd.Timedelta(hours=72), [bb], out_file)
+                    ts_plot(ml_data, st, [t], [p0], t, t+pd.Timedelta(hours=72), [bb], out_file)
                     plt.savefig(out_file)
                     plt.close()
             else:
