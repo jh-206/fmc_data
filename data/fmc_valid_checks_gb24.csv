@@ -501,4 +501,15 @@ TT376,"10, 15",1,
 TT377,2,1,
 TT377,3. 35,0,
 TT377,"41, 52",1,
-TT378,,,
+TT378,"2, 53",1,"check 10-11, 25-26"
+TT379,"1, 100",1,"check 67-69, very jagged"
+TT380,"2, 58",1,
+TT381,"2, 51",1,check 48
+TT382,"1, 4",1,"check 1, very dry and flat"
+TT382,"5, 6",0,"very dry and downward trend separate from weather, tails off into a filtered section"
+TT382,"8, 75",1,check 26-28
+TT390,"0, 243",1,"some very flat and dry periods, eg 217"
+TT391,"1, 243",1,
+TT392,"0, 243",1,
+TT430,"2, 34",1,"lots of periods of FMC well above weather, suspicious"
+TT431,,,
