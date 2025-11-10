@@ -36,16 +36,16 @@ if __name__ == '__main__':
     n_periods = 5 # number of periods per png plot file
     n_hours = 72 # hours in a period
     for st in ml_data:
-
-        d = ml_data[st]['data']
-        max_period = d.st_period.max()
+        #if not st == "TT431": continue
+        dat = ml_data[st]['data']
+        max_period = dat.st_period.max()
         for start in range(0, max_period + 1, n_periods):
             batch = list(range(start, min(start + n_periods, max_period + 1)))
-            ts = [d[d['st_period'].isin([bi])].date_time.min() for bi in batch]
+            ts = [dat[dat['st_period'].isin([bi])].date_time.min() for bi in batch]
             if np.all(pd.isna(ts)): continue
-            pi = [d[d['st_period'].isin([bi])].st_period.min() for bi in batch]
-            t0 = d[d['st_period'].isin(batch)].date_time.min()
-            t1 = d[d['st_period'].isin(batch)].date_time.max()
+            pi = [dat[dat['st_period'].isin([bi])].st_period.min() for bi in batch]
+            t0 = dat[dat['st_period'].isin(batch)].date_time.min()
+            t1 = dat[dat['st_period'].isin(batch)].date_time.max()
             print("~"*50)
             print(f"Running batch for station {st}")
             print(f"Start time: {t0}")
@@ -56,6 +56,7 @@ if __name__ == '__main__':
             times = np.array(ts)[~pd.isna(ts)]
             thresh = pd.Timedelta(days=90)
             if np.any(pd.to_datetime(times).diff()[1:] > thresh):
+                print(f"Splitting plots for batch {batch} due to time gaps")
                 for t, p0, bb in zip(ts, pi, batch):
                     if pd.isna(t): continue
                     out_file = osp.join(out_dir, f"{st}_{bb}_{bb}.png")
@@ -65,14 +66,12 @@ if __name__ == '__main__':
             else:
                 out_file = osp.join(out_dir, f"{st}_{batch[0]}_{batch[-1]}.png")
                 ts_plot(ml_data, st, ts, pi, t0, t1, batch, out_file)
-
- 
-            for p, t in zip(pi, ts):
-                if np.isnan(p): continue
-                plt.axvline(x=t, color='black', linestyle='dotted')
-                plt.text(t, plt.ylim()[1], str(p), verticalalignment='top', horizontalalignment="right", color='black')  # Annotate
-            plt.savefig(out_file)
-            plt.close()
+                for p, t in zip(pi, ts):
+                    if np.isnan(p): continue
+                    plt.axvline(x=t, color='black', linestyle='dotted')
+                    plt.text(t, plt.ylim()[1], str(p), verticalalignment='top', horizontalalignment="right", color='black')  # Annotate
+                plt.savefig(out_file)
+                plt.close()
 
 
 
