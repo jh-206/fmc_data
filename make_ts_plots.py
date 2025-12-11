@@ -13,8 +13,7 @@ import sys
 from utils import plot_one, time_range
 
 def ts_plot(ml_data, st, ts, pi, t0, t1, batch, outfile):
-    plot_one(ml_data, st, start_time = t0, end_time = t1, title2 = f"Periods {batch}", 
-                         save_path = None, show=True)
+    plot_one(ml_data, st, start_time = t0, end_time = t1, title2 = f"Periods {batch}", save_path = None, show=True)
     for p, t in zip(pi, ts):
         if np.isnan(p): continue
         plt.axvline(x=t, color='black', linestyle='dotted')
