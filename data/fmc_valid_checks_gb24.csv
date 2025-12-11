@@ -25,10 +25,10 @@ BKGC1,"33, 241",1,check 138
 BKRC1,"0, 31",0,flat to filtered
 BKRC1,"32, 125",1,
 BKRC1,"126, 137",0,"flat, filtered, "
-BKRC1,"138, 235",,check 138-139
+BKRC1,"138, 235",1,check 138-139
 BLIC1,"1, 6",1,
 BLIC1,"9, 15",0,"lots of filtered, wet and erradic"
-BLIC1,"16, 27",,check 16
+BLIC1,"16, 27",1,check 16
 BLKO3,"0, 5",1,
 BLKO3,"6, 39",0,filtered and flat
 BLKO3,"40, 239",1,
@@ -52,7 +52,7 @@ CPFO3,"42, 124",1,
 CPFO3,"125, 150",0,filtered and flat into wet 150
 CPFO3,"151, 235",1,
 CPFO3,"236, 241",0,filtered and flat
-CRII1,"0, 163",,check 33
+CRII1,"0, 163",1,check 33
 CRVC1,"46, 58",0,unreasonable oscillations from less than 5 to over 25
 CRVC1,"59, 132",1,
 CRVC1,"133, 156",0,"filtered, then flat into high 156"
@@ -66,7 +66,7 @@ CWSC1,"1, 21",1,"suspiciously drop 2-4. check 12, 21"
 DEMC1,"1, 243",1,check 242
 DEXC1,"41, 133",1,
 DEXC1,"136, 145",0,flat wet
-DEXC1,"146, 243",,check 147
+DEXC1,"146, 243",1,check 147
 DKYC1,"0, 38",0,"mostly filtered, flat stretches into high 38"
 DKYC1,"39, 243",1,"check eg 95-96, moisture goes up when eq goes down"
 DMNI1,"45, 109",1,
@@ -286,8 +286,8 @@ NWRU1,7,0,"filtered around, flat"
 NWRU1,"45, 113",1,
 NWRU1,"115, 121",0,"wet and too regular, then into long filtered stretch"
 NWRU1,"161, 241",1,
-OSLI1,"1, 127",1,
-OSLI1,"143, 152",0,"starts with flat and extremely dry stretch, then into erradic stretches"
+OLSI1,"1, 127",1,
+OLSI1,"143, 152",0,"starts with flat and extremely dry stretch, then into erradic stretches"
 OORC1,"1, 243",1,
 OTECS,"0, 52",1,"check 52, too linear"
 OVDC1,"1, 33",1,
@@ -370,7 +370,7 @@ TR172,"1, 82",1,
 TR255,"1, 102",1,
 TR256,"1, 30",1,
 TR257,"2, 91",1,
-TR377,"2, 139",1,"check 65, 75-77"
+TR337,"2, 139",1,"check 65, 75-77"
 TR368,"2, 88",1,
 TR369,"2, 90",1,
 TR421,"6, 71",1,
@@ -499,7 +499,7 @@ TT376,"2, 7",1,
 TT376,9,0,
 TT376,"10, 15",1,
 TT377,2,1,
-TT377,3. 35,0,
+TT377,"3, 35",0,
 TT377,"41, 52",1,
 TT378,"2, 53",1,"check 10-11, 25-26"
 TT379,"1, 100",1,"check 67-69, very jagged"

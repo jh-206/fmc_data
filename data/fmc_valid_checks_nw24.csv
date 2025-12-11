@@ -35,4 +35,62 @@ BNSPN,"1, 157",1,lots of rain
 BOFO3,"1, 236",1,lots of filtered
 BPLPN,"1, 192",1,
 BRNPN,"0, 201",1,
-BTFO3,,,
+BTFO3,"0, 123",1,"check 120-122, jagged and wet"
+BTFO3,"126, 144",0,"flat, then filtered, then odd boxcar shape 142-144 into filtered again"
+BTFO3,"145, 243",1,
+CAFO3,"1, 236",1,
+CCRO3,7,1,
+CCRO3,11,1,
+CCRO3,29,0,
+CCRO3,"34, 236",1,
+CCRO3,240,0,
+CEFO3,"0, 243",1,
+CFGO3,"1, 73",1,
+CGFO3,"0, 243",1,
+CGFW1,"1, 243",1,
+CHRO3,"10, 224",1,
+CIFO3,10,0,
+CIFO3,15,0,
+CIFO3,"32, 218",1,
+CIFO3,"224, 228",0,
+CMFW1,29,0,
+CMFW1,"30, 114",1,
+CMFW1,119,0,
+CMFW1,"123, 229",1,
+CMFW1,"232, 236",0,
+CPFO3,2,0,flat and filtered around
+CPFO3,5,0,flat and filtered around
+CPFO3,14,0,flat and filtered around
+CPFO3,"15, 18",0,flat and filtered around
+CPFO3,"41, 122",1,
+CPFO3,"124, 133",0,
+CPFO3,"150, 235",1,
+CPFO3,"237, 241",0,
+CPOW1,"2, 139",1,
+CPRW1,"1, 23",1,
+CSFO3,"0, 243",1,
+CWFO3,0,1,
+CWFO3,3,1,
+CWFO3,"5, 15",0,
+CWFO3,"38, 237",1,
+CWFO3,"239, 240",0,
+CYFW1,10,1,
+CYFW1,"13, 18",0,
+CYFW1,29,1,
+CYFW1,"39, 233",1,
+DCCW1,"9, 10",0,
+DCCW1,"38, 225",1,check 225
+DCRPN,"0, 153",0,Filtering whole station - looks erradic and wet - no info on sensor type nor on network - TODO: find sensor network for station in synoptic
+DIFW1,10,0,
+DIFW1,18,0,
+DIFW1,31,0,
+DIFW1,"32, 229",1,check 115-116
+DIFW1,"232, 238",0,
+DMFW1,9,0,
+DMFW1,"13, 24",0,
+DMFW1,"28, 225",1,
+DMFW1,"232, 235",0,
+DRYW1,"3, 6",0,
+DRYW1,"10, 14",1,
+DRYW1,"16, 20",0,
+DRYW1,"23, 238",1,"NOTE: check DRYW1 station for exclusion, see issues with DCRPN. Seems like a sketchy network"
