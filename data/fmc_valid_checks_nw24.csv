@@ -94,3 +94,4 @@ DRYW1,"3, 6",0,
 DRYW1,"10, 14",1,
 DRYW1,"16, 20",0,
 DRYW1,"23, 238",1,"NOTE: check DRYW1 station for exclusion, see issues with DCRPN. Seems like a sketchy network"
+DSRO3,23,0,"Only period for station, very wet and filtered around"
