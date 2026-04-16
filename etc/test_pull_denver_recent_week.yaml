@@ -1,0 +1,27 @@
+name: denver_recent_week_test
+description: Test pull for fuel moisture data in a small Denver-area bounding box over the most recent 7 days.
+
+selection:
+  vars:
+    - fuel_moisture
+  bbox:
+    lon_min: -105.35
+    lat_min: 39.55
+    lon_max: -104.55
+    lat_max: 40.15
+
+time:
+  mode: relative
+  recent:
+    days: 7
+
+request:
+  service: timeseries
+  complete: true
+  sensorvars: true
+  status: active
+
+output:
+  tag: denver_recent_week_test
+  write_raw_json: true
+  write_tabular_csv: true

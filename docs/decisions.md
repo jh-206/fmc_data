@@ -16,3 +16,5 @@ Use it for official decisions that should guide the project going forward, such 
 - Synoptic-derived datasets stored under `data/` should include a companion build document that records the exact commands used to recreate them.
 - Station inventory datasets built from Synoptic metadata should include any required request options needed to expose the intended sensor metadata, such as `sensorvars=1` for fuel moisture.
 - Automated verification code should live in a top-level `tests/` directory rather than being mixed into `src/`.
+- Data-access code and dataset-build workflows should remain token-agnostic and should not hard-code assumptions tied to a specific Synoptic account tier.
+- The project’s intended full-scale historical data build for classifier development is expected to run with a paid Synoptic token so the training dataset can cover the broadest practical period of record available to the project.

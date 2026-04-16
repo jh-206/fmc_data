@@ -51,3 +51,22 @@ Use it for more detailed working notes, including what we tried, what happened, 
   - `synoptic_variables` outputs
   - `synoptic_networks` outputs
   - `synoptic_stations_fuel_moisture` outputs
+
+## 2026-04-16
+
+- Reviewed the installed `synopticpy` code path and found that it primarily wraps direct Synoptic API requests with token lookup, parameter normalization, and optional parsing to Polars DataFrames.
+- Working hypothesis for follow-up exploration: canonical project dataset builds may be better implemented with direct API requests rather than `synopticpy`, while `synopticpy` may still remain useful for interactive or exploratory access.
+- No project decision has been made yet to remove `synopticpy`; this is a documented direction for further evaluation rather than a settled workflow choice.
+- Retrieved Synoptic QC Types reference data from the `qctypes` endpoint and saved local copies to:
+  - [data/synoptic_qctypes.json](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/data/synoptic_qctypes.json)
+  - [data/synoptic_qctypes.csv](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/data/synoptic_qctypes.csv)
+- Retrieved count from the saved QC Types payload:
+  - 83 entries in `QCTYPES`
+- Current planning assumption: the free Synoptic token may have a limited historical access window, potentially around the previous year, though the exact limit should be verified with a direct historical request if needed.
+- For now, data-access code should remain token-agnostic and avoid hard-coding assumptions that only hold for the current free token.
+- Longer-term project direction: the intended production-scale data build is to run the full retrieval pipeline with a paid Synoptic token so the classifier can be trained on the broadest practical historical FMC dataset.
+- Added [etc/test_pull_denver_recent_week.yaml](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/etc/test_pull_denver_recent_week.yaml) as the first proposed YAML config file for a bounded Synoptic FMC test pull.
+- This first version is intentionally test-focused, using a small Denver-area bounding box and a relative one-week time window.
+- Deferred any `decisions.md` update about config-file conventions until we have used and evaluated this first config pattern.
+- Created [data/ingest](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/data/ingest:1) as the planned landing area for ingest outputs and added [data/ingest/.ingest](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/data/ingest/.ingest:1) as a tracked placeholder.
+- Current plan is to test future FMC retrieval outputs in `data/ingest/` before deciding whether the ingest layout and naming pattern should become a formal project convention.
