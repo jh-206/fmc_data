@@ -1,0 +1,10 @@
+name: fmc_synoptic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pandas>=2.2,<2.3
+  - numpy>=2.2,<2.3
+  - pip:
+      - synopticpy==2024.12.0

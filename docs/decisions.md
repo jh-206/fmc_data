@@ -10,3 +10,6 @@ Use it for official decisions that should guide the project going forward, such 
 - Synoptic metadata reference lists should be cached locally under `data/` when retrieved so downstream data-building and model-training steps do not depend on repeated live API access.
 - Canonical first-stage local copies of Synoptic metadata should be saved as raw API JSON before any flattening or CSV conversion.
 - Live Synoptic retrieval is an explicit token-using step and should be treated as a confirmed action, with the token stored only in untracked local config such as `etc/tokens.json`.
+- The project should maintain separate Python environments for distinct workflow layers when that improves stability and clarity.
+- Synoptic API access and wrapper-building work should use a dedicated data-processing environment rather than sharing an environment with future modeling code.
+- The initial dedicated data-processing environment is defined in [etc/environment.yml](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/etc/environment.yml) and uses the Conda environment name `fmc_synoptic`.
