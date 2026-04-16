@@ -22,6 +22,7 @@ request:
   status: active
 
 output:
+  output_dir: data/ingest
   tag: denver_recent_week_test
   write_raw_json: true
   write_tabular_csv: true

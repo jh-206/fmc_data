@@ -6,5 +6,6 @@ dependencies:
   - pip
   - pandas>=2.2,<2.3
   - numpy>=2.2,<2.3
+  - pyyaml>=6.0,<7
   - pip:
       - synopticpy==2024.12.0
