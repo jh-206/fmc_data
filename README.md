@@ -32,3 +32,11 @@ Ad hoc rules for identifying suspect observations are difficult to maintain and 
 
 The goal of this project is to support development of a classification approach for rapidly flagging suspect fuel moisture data.
 The intent is to improve filtering of poor-quality observations before they are used in downstream modeling workflows.
+
+## Setup Notes
+
+To reproduce data-access steps for this project:
+
+1. Create or access a Synoptic account and obtain an API token from the Synoptic website.
+2. Copy [etc/tokens.json.initial](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/etc/tokens.json.initial) to `etc/tokens.json`.
+3. Replace the placeholder value in `etc/tokens.json` with your Synoptic API token.

@@ -36,3 +36,18 @@ Use it for more detailed working notes, including what we tried, what happened, 
 - Kept this environment intentionally narrow and data-processing focused rather than reproducing the broader package set from `ml_fmda_data`.
 - Confirmed that `synopticpy` can use a token passed directly, the `SYNOPTIC_TOKEN` environment variable, or `~/.config/SynopticPy/config.toml`.
 - Deferred local token initialization pending explicit confirmation because it requires using the live secret from [etc/tokens.json](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/etc/tokens.json).
+- Added a top-level `tests/` directory for automated verification code rather than mixing tests into `src/`.
+- Added [tests/test_synoptic_fuel_moisture.py](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/tests/test_synoptic_fuel_moisture.py) as an initial Synoptic fuel-moisture access test script.
+- Queried the Synoptic station metadata endpoint for stations matching `vars=fuel_moisture`.
+- Found that `sensorvars=1` is required in the station metadata request if the returned payload should explicitly include `fuel_moisture` under `SENSOR_VARIABLES`.
+- Saved the resulting station inventory to:
+  - [data/synoptic_stations_fuel_moisture.json](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/data/synoptic_stations_fuel_moisture.json)
+  - [data/synoptic_stations_fuel_moisture.csv](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/data/synoptic_stations_fuel_moisture.csv)
+- Retrieved counts from the saved fuel-moisture station payload:
+  - 4047 stations returned by the metadata request
+  - 4047 stations with explicit `fuel_moisture` sensor metadata when `sensorvars=1` is included
+- Added [data/DATASET_BUILD.md](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/data/DATASET_BUILD.md) to document exact recreation commands for the current Synoptic-derived datasets in `data/`.
+- Live-retested the documented build commands in `data/DATASET_BUILD.md` against the current token and confirmed they successfully rebuilt:
+  - `synoptic_variables` outputs
+  - `synoptic_networks` outputs
+  - `synoptic_stations_fuel_moisture` outputs

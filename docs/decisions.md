@@ -13,3 +13,6 @@ Use it for official decisions that should guide the project going forward, such 
 - The project should maintain separate Python environments for distinct workflow layers when that improves stability and clarity.
 - Synoptic API access and wrapper-building work should use a dedicated data-processing environment rather than sharing an environment with future modeling code.
 - The initial dedicated data-processing environment is defined in [etc/environment.yml](/Users/hirschij/Documents/Projects/Wildfire/fmc_data/etc/environment.yml) and uses the Conda environment name `fmc_synoptic`.
+- Synoptic-derived datasets stored under `data/` should include a companion build document that records the exact commands used to recreate them.
+- Station inventory datasets built from Synoptic metadata should include any required request options needed to expose the intended sensor metadata, such as `sensorvars=1` for fuel moisture.
+- Automated verification code should live in a top-level `tests/` directory rather than being mixed into `src/`.
