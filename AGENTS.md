@@ -26,6 +26,7 @@ Do not modify, reorganize, or delete anything under `archived/` unless the user 
 - Prefer small, localized edits over broad rewrites.
 - Do not change meanings, assumptions, or interfaces without a clear reason.
 - When uncertain, leave things unchanged and surface the uncertainty.
+- Do not use `smoke` as software-development shorthand for a test or validation run; in this wildfire project, use terms like `sanity check`, `quick validation`, or `bounded test` instead.
 
 ## Editing Guidelines
 

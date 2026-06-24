@@ -33,6 +33,19 @@ Ad hoc rules for identifying suspect observations are difficult to maintain and 
 The goal of this project is to support development of a classification approach for rapidly flagging suspect fuel moisture data.
 The intent is to improve filtering of poor-quality observations before they are used in downstream modeling workflows.
 
+## Data Strategy
+
+Initial classifier training will use manually labeled historical FMC validity intervals from the WIRC-maintained RAWS/FMC stash, with historical HRRR weather-context data from the local HRRR stash.
+
+The first training-data build will use HRRR-backed ML objects as the primary joined FMC/weather backbone, with the MesoDB/RAWS stash used for reconciliation and possible backfill.
+The project contact for the WIRC historical FMC source is Angel Farguell-Caus.
+
+Existing Synoptic API retrieval code will remain part of the workflow for testing real-time classification on newly retrieved fuel moisture observations.
+
+Model evaluation will emphasize regional generalization using leave-one-GACC-out cross-validation.
+In each fold, one usable GACC is held out as the test set, while the remaining GACCs are split into station-grouped training and validation sets.
+Repeated random seeds will be used to estimate training-process variability.
+
 ## Setup Notes
 
 To reproduce data-access steps for this project:

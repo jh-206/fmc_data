@@ -3,6 +3,10 @@
 This document lists important external data and software sources used by the project.
 It is intended as a stable reference for authoritative URLs.
 
+## RAWS FMC Stash
+
+- 10h sensor data from an archive shared by Angel Farguell at WIRC.
+
 ## Synoptic
 
 - Synoptic Weather API documentation:

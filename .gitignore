@@ -3,3 +3,12 @@ ts_plots/
 .DS_Store
 __pycache__/
 .virtual_documents/
+etc/tokens.json
+data/RAWS_stash/
+data/hrrr_stash/*.pkl
+data/ingest/*
+!data/ingest/.ingest
+data/model_sets/
+data/pool/
+archived/data/
+archived/ts_plots/
